@@ -1,0 +1,38 @@
+CI C# configuration instructions:
+1. Add the AppedoCI dll file in to your C# project bin folder
+2. Add appedo_config.properties file into C# project.
+3. Add Namespace "using AppedoCI" in your class after use the following appedo methods.
+
+4. Appedo gives you a survey kind of report, to now what kind of Users interested in what kind of products.
+For that you need to give us the parameters user_first_name, user_last_name, email_id and mobile_no.
+Call this function once you are able to get the User Details from your session. 
+Add The following code next to any of the C# class ,method .
+Note: Any Events or Transactions called before this will not carry the user data to Appedo
+
+    AppedoCI.AppedoCI.SetUserProps({
+	    user_first_name: user_first_name_from_session, 
+		user_last_name : user_last_name_from_session,
+		email_id : email_id_from_session,
+		mobile_no : mobile_no_from_session
+	});
+		
+Event Tracking:
+5. Add The following method next to SetUserProps method.
+
+	AppedoCI.AppedoCI.TriggerEvent("Apply Leave", "applyLeave",{ "Employee Name" : "Rajiv", "No Of Days" : "5"});
+	
+
+6. The users can add maximum of 50 parameters for CI in the above code.
+
+Transaction Tracking:
+7. For each transaction, add a global variable to track it for starting and completion.
+   String parms = null;
+
+8. Call the method AppedoCI.StartTransaction() at the transaction's starting place. Store the return in a global variable, which has to be used in transaction's completion.
+	parms = AppedoCI.AppedoCI.StartTransaction("Approve Leave", "approveLeave", { "Employee Name" : "Rajiv", "No Of Days" : "5"})
+
+
+9. Call the method AppedoCI.CompleteTransaction(), where the return of the startTransaction  is loaded.
+     AppedoCI.AppedoCI.CompleteTransaction(parms);
+
+10. Ensure all the JSONs formatted are valid.

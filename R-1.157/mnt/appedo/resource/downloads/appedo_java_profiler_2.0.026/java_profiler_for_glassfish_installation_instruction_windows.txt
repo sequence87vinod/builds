@@ -1,0 +1,50 @@
+1. Prerequisites:
+	- JRE 1.7 or above. To download JRE 1.7 http://www.oracle.com
+	- GlassFish 4.x should be installed.
+	- File write permission for a folder, where agent will be configured.
+	
+2. Create @appln_heading@ agent's home folder
+	D:\@download_appln_name_lowercase@\@download_appln_name_lowercase@_java_profiler
+	
+3. Download the agent under D:\@download_appln_name_lowercase@\@download_appln_name_lowercase@_java_profiler
+
+4. Use Winrar/Winzip/Other tools to extract the downloaded setup
+
+5. Update your package inclusion/exclusion details
+	D:\@download_appln_name_lowercase@\@download_appln_name_lowercase@_java_profiler\profiler_config.properties
+	Add the package name along with Package name with/without Class name for inclusion/exclusion in profiler.
+	Class name should not have .java or .class in the end. For example,
+	PROFILE_INCLUDE_PACKAGE=com/megacrm/
+	PROFILE_EXCLUDE_PACKAGE=com/megacrm/utils/UtilsFactory,com/megacrm/bean
+	
+7. Include the jar "@download_appln_name_lowercase@_java_profiler_#VERSION#.jar" in your application's library.
+	Eg.: Move the file into "<GLASSFISH_HOME>\domains\<YOUR_DOMAIN>\applications\<YOUR_APPLICATION>\WEB-INF\lib\"
+
+7. Configure the profiler agent in GlassFish Domain's settings:
+	vi <GLASSFISH_HOME>\domains\<YOUR_DOMAIN>\config\domain.xml
+	Add the following <jvm-options> under configs -> config -> java-config
+	<configs>
+		.
+		.
+		<config name="<YOUR_ACTIVE_CONFIG>" >	
+			.
+			.
+			<java-config ..... >
+				<jvm-options>-Dmy_java_profiler_path=D:/@download_appln_name_lowercase@/@download_appln_name_lowercase@_java_profiler/</jvm-options>
+				<jvm-options>-noverify</jvm-options>
+				<jvm-options>-Djavax.net.ssl.trustStorePassword=changeit</jvm-options>
+				<jvm-options>-javaagent:"D:/@download_appln_name_lowercase@/@download_appln_name_lowercase@_java_profiler/@download_appln_name_lowercase@_java_profiler_#VERSION#.jar"</jvm-options>
+
+8. Install SSL
+	Find the Certificate configured in your domain's config\domain.xml
+	Eg.: <jvm-options>-Djavax.net.ssl.trustStore=${com.sun.aas.instanceRoot}/config/cacerts.jks</jvm-options>
+	which could be <GLASSFISH_HOME>\domains\<YOUR_DOMAIN>\config\cacerts.jks
+	
+	cd <GLASSFISH_CACERT_PATH>
+	keytool -import -alias apm.@download_appln_name_lowercase@.com -keystore cacerts.jks -storepass changeit -file apm.@download_appln_name_lowercase@.com.crt -noprompt
+
+	Note: "changeit" could be the default store password for the "cacerts". If it changed, then use the new password in the above command.
+	
+9. Restart the GlassFish server.
+
+Now start working in the application. After few minutes, the profiled data will appear under your Application's Transaction & SQL tabs.

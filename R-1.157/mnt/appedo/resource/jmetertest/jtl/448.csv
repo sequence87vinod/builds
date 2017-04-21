@@ -1,0 +1,1402 @@
+54.159.243.126,1425117797504,1406,/HotelApp/,200,OK,testhotelapp 1-4,text,true,17213,826
+54.159.243.126,1425117797494,1397,/HotelApp/,200,OK,testhotelapp 1-2,text,true,17213,844
+54.159.243.126,1425117797511,1381,/HotelApp/,200,OK,testhotelapp 1-1,text,true,17213,827
+54.159.243.126,1425117797504,1384,/HotelApp/,200,OK,testhotelapp 1-3,text,true,17213,838
+54.159.243.126,1425117798926,539,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-1,text,true,12015,275
+54.159.243.126,1425117798916,558,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-4,text,true,12015,264
+54.159.243.126,1425117799490,17,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,16
+54.159.243.126,1425117792375,1981,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-4,,true,29639,1106
+54.159.243.126,1425117799502,17,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,17
+54.159.243.126,1425117791591,1937,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-1,,true,29639,1119
+54.159.243.126,1425117798917,620,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-2,text,true,12015,347
+54.159.243.126,1425117798934,610,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-3,text,true,12015,335
+54.159.243.126,1425117799544,57,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,57
+54.159.243.126,1425117791888,2074,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-2,,true,29639,1248
+54.159.243.126,1425117799618,4,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,4
+54.159.243.126,1425117792103,1998,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-3,,true,29639,1177
+54.159.243.126,1425117799520,709,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-1,text,true,16967,444
+54.159.243.126,1425117800230,4,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,4
+54.159.243.126,1425117799507,731,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-4,text,true,16967,461
+54.159.243.126,1425117800238,3,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,3
+54.159.243.126,1425117799601,728,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-2,text,true,16967,463
+54.159.243.126,1425117800330,3,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117799623,955,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-3,text,true,16967,451
+54.159.243.126,1425117800579,3,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,3
+54.159.243.126,1425117800242,666,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-4,text,true,13957,397
+54.159.243.126,1425117800910,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117799507,1402,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-4,,true,31746,863
+54.159.243.126,1425117800235,680,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-1,text,true,13957,414
+54.159.243.126,1425117800916,4,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,4
+54.159.243.126,1425117799519,1397,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-1,,true,31746,866
+54.159.243.126,1425117800335,673,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-2,text,true,13957,370
+54.159.243.126,1425117801009,3,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,3
+54.159.243.126,1425117799601,1407,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-2,,true,31746,838
+54.159.243.126,1425117800913,264,/HotelApp/Logout.php,200,OK,testhotelapp 1-4,text,true,1960,264
+54.159.243.126,1425117801178,3,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,3
+54.159.243.126,1425117800913,267,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-4,,true,2371,267
+54.159.243.126,1425117800921,278,/HotelApp/Logout.php,200,OK,testhotelapp 1-1,text,true,1960,278
+54.159.243.126,1425117801199,3,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,3
+54.159.243.126,1425117800920,281,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-1,,true,2371,281
+54.159.243.126,1425117800583,643,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-3,text,true,13957,377
+54.159.243.126,1425117801227,3,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,3
+54.159.243.126,1425117799623,1604,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-3,,true,31746,834
+54.159.243.126,1425117801013,262,/HotelApp/Logout.php,200,OK,testhotelapp 1-2,text,true,1960,262
+54.159.243.126,1425117801275,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117801013,264,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-2,,true,2371,264
+54.159.243.126,1425117801239,268,/HotelApp/Logout.php,200,OK,testhotelapp 1-3,text,true,1960,268
+54.159.243.126,1425117801508,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117801239,270,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-3,,true,2371,270
+54.159.243.126,1425117801203,853,/HotelApp/,200,OK,testhotelapp 1-1,text,true,17212,325
+54.159.243.126,1425117801201,870,/HotelApp/,200,OK,testhotelapp 1-4,text,true,17212,339
+54.159.243.126,1425117801281,831,/HotelApp/,200,OK,testhotelapp 1-2,text,true,17212,302
+54.159.243.126,1425117801511,828,/HotelApp/,200,OK,testhotelapp 1-3,text,true,17212,302
+54.159.243.126,1425117802057,520,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-1,text,true,12015,258
+54.159.243.126,1425117802578,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117801203,1375,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-1,,true,29638,585
+54.159.243.126,1425117802072,534,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-4,text,true,12015,268
+54.159.243.126,1425117802608,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117801201,1406,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-4,,true,29638,609
+54.159.243.126,1425117802112,523,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-2,text,true,12015,261
+54.159.243.126,1425117802636,5,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,5
+54.159.243.126,1425117801281,1359,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-2,,true,29638,568
+54.159.243.126,1425117802340,529,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-3,text,true,12015,262
+54.159.243.126,1425117802870,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117801511,1359,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-3,,true,29638,566
+54.159.243.126,1425117802581,768,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-1,text,true,16967,496
+54.159.243.126,1425117803350,3,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,3
+54.159.243.126,1425117802611,775,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-4,text,true,16967,511
+54.159.243.126,1425117803387,4,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,4
+54.159.243.126,1425117802642,797,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-2,text,true,16967,535
+54.159.243.126,1425117803440,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117802872,748,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-3,text,true,16967,479
+54.159.243.126,1425117803620,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117803353,693,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-1,text,true,13957,431
+54.159.243.126,1425117804047,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117802580,1466,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-1,,true,31746,932
+54.159.243.126,1425117803391,681,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-4,text,true,13957,418
+54.159.243.126,1425117804073,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117802611,1462,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-4,,true,31746,935
+54.159.243.126,1425117803442,661,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-2,text,true,13957,395
+54.159.243.126,1425117804104,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117802641,1462,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-2,,true,31746,934
+54.159.243.126,1425117803623,682,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-3,text,true,13957,416
+54.159.243.126,1425117804306,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117802872,1434,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-3,,true,31746,899
+54.159.243.126,1425117804049,263,/HotelApp/Logout.php,200,OK,testhotelapp 1-1,text,true,1960,263
+54.159.243.126,1425117804313,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117804049,265,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-1,,true,2371,265
+54.159.243.126,1425117804076,260,/HotelApp/Logout.php,200,OK,testhotelapp 1-4,text,true,1960,260
+54.159.243.126,1425117804337,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117804075,262,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-4,,true,2371,262
+54.159.243.126,1425117804106,262,/HotelApp/Logout.php,200,OK,testhotelapp 1-2,text,true,1960,262
+54.159.243.126,1425117804368,3,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117804106,265,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-2,,true,2371,264
+54.159.243.126,1425117804309,259,/HotelApp/Logout.php,200,OK,testhotelapp 1-3,text,true,1960,259
+54.159.243.126,1425117804568,4,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,4
+54.159.243.126,1425117804308,263,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-3,,true,2371,263
+54.159.243.126,1425117804315,837,/HotelApp/,200,OK,testhotelapp 1-1,text,true,17212,314
+54.159.243.126,1425117804339,844,/HotelApp/,200,OK,testhotelapp 1-4,text,true,17212,310
+54.159.243.126,1425117804374,863,/HotelApp/,200,OK,testhotelapp 1-2,text,true,17212,306
+54.159.243.126,1425117804573,826,/HotelApp/,200,OK,testhotelapp 1-3,text,true,17212,302
+54.159.243.126,1425117805152,560,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-1,text,true,12015,280
+54.159.243.126,1425117805712,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117804315,1399,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-1,,true,29638,596
+54.159.243.126,1425117805184,539,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-4,text,true,12015,263
+54.159.243.126,1425117805723,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117804339,1385,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-4,,true,29638,575
+54.159.243.126,1425117805237,527,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-2,text,true,12015,262
+54.159.243.126,1425117805764,3,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,3
+54.159.243.126,1425117804374,1393,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-2,,true,29638,571
+54.159.243.126,1425117805399,529,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-3,text,true,12015,264
+54.159.243.126,1425117805929,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117804572,1356,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-3,,true,29638,567
+54.159.243.126,1425117805726,729,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-4,text,true,16967,470
+54.159.243.126,1425117806455,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117805715,743,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-1,text,true,16967,468
+54.159.243.126,1425117806458,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117805767,755,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-2,text,true,16967,493
+54.159.243.126,1425117806523,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117805931,727,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-3,text,true,16967,465
+54.159.243.126,1425117806659,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117806459,619,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-4,text,true,13957,358
+54.159.243.126,1425117807078,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117805725,1352,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-4,,true,31746,832
+54.159.243.126,1425117806460,655,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-1,text,true,13957,365
+54.159.243.126,1425117807116,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117805714,1402,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-1,,true,31746,837
+54.159.243.126,1425117806525,690,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-2,text,true,13957,426
+54.159.243.126,1425117807215,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117805767,1448,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-2,,true,31746,922
+54.159.243.126,1425117806661,650,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-3,text,true,13957,381
+54.159.243.126,1425117807312,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117805931,1380,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-3,,true,31746,849
+54.159.243.126,1425117807081,266,/HotelApp/Logout.php,200,OK,testhotelapp 1-4,text,true,1960,266
+54.159.243.126,1425117807347,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117807081,268,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-4,,true,2371,268
+54.159.243.126,1425117807118,274,/HotelApp/Logout.php,200,OK,testhotelapp 1-1,text,true,1960,274
+54.159.243.126,1425117807393,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117807118,276,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-1,,true,2371,276
+54.159.243.126,1425117807218,265,/HotelApp/Logout.php,200,OK,testhotelapp 1-2,text,true,1960,265
+54.159.243.126,1425117807484,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117807217,267,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-2,,true,2371,267
+54.159.243.126,1425117807314,280,/HotelApp/Logout.php,200,OK,testhotelapp 1-3,text,true,1960,280
+54.159.243.126,1425117807595,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117807314,283,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-3,,true,2371,282
+54.159.243.126,1425117807395,830,/HotelApp/,200,OK,testhotelapp 1-1,text,true,17212,304
+54.159.243.126,1425117807350,887,/HotelApp/,200,OK,testhotelapp 1-4,text,true,17212,314
+54.159.243.126,1425117807486,850,/HotelApp/,200,OK,testhotelapp 1-2,text,true,17212,305
+54.159.243.126,1425117807606,857,/HotelApp/,200,OK,testhotelapp 1-3,text,true,17212,322
+54.159.243.126,1425117808225,532,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-1,text,true,12015,267
+54.159.243.126,1425117808758,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117807395,1363,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-1,,true,29638,572
+54.159.243.126,1425117808237,530,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-4,text,true,12015,262
+54.159.243.126,1425117808771,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117807350,1419,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-4,,true,29638,578
+54.159.243.126,1425117808337,531,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-2,text,true,12015,262
+54.159.243.126,1425117808869,3,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,3
+54.159.243.126,1425117807486,1384,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-2,,true,29638,570
+54.159.243.126,1425117808463,529,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-3,text,true,12015,267
+54.159.243.126,1425117808993,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117807606,1388,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-3,,true,29638,591
+54.159.243.126,1425117808773,756,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-4,text,true,16967,477
+54.159.243.126,1425117809530,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117808760,789,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-1,text,true,16967,514
+54.159.243.126,1425117809550,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117808872,724,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-2,text,true,16967,458
+54.159.243.126,1425117809597,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117808995,747,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-3,text,true,16967,476
+54.159.243.126,1425117809743,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117809532,679,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-4,text,true,13957,406
+54.159.243.126,1425117810213,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117808773,1439,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-4,,true,31746,887
+54.159.243.126,1425117809552,676,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-1,text,true,13957,406
+54.159.243.126,1425117810228,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117808760,1469,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-1,,true,31746,924
+54.159.243.126,1425117809599,644,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-2,text,true,13957,382
+54.159.243.126,1425117810243,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117808872,1371,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-2,,true,31746,843
+54.159.243.126,1425117809745,641,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-3,text,true,13957,375
+54.159.243.126,1425117810386,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117808995,1391,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-3,,true,31746,854
+54.159.243.126,1425117810215,264,/HotelApp/Logout.php,200,OK,testhotelapp 1-4,text,true,1960,264
+54.159.243.126,1425117810486,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117810215,266,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-4,,true,2371,266
+54.159.243.126,1425117810230,261,/HotelApp/Logout.php,200,OK,testhotelapp 1-1,text,true,1960,261
+54.159.243.126,1425117810245,271,/HotelApp/Logout.php,200,OK,testhotelapp 1-2,text,true,1960,271
+54.159.243.126,1425117810516,3,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,3
+54.159.243.126,1425117810245,274,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-2,,true,2371,274
+54.159.243.126,1425117810520,3,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,3
+54.159.243.126,1425117810230,264,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-1,,true,2371,264
+54.159.243.126,1425117810389,263,/HotelApp/Logout.php,200,OK,testhotelapp 1-3,text,true,1960,263
+54.159.243.126,1425117810653,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117810389,265,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-3,,true,2371,265
+54.159.243.126,1425117810489,837,/HotelApp/,200,OK,testhotelapp 1-4,text,true,17212,312
+54.159.243.126,1425117810519,848,/HotelApp/,200,OK,testhotelapp 1-2,text,true,17212,322
+54.159.243.126,1425117810548,853,/HotelApp/,200,OK,testhotelapp 1-1,text,true,17212,321
+54.159.243.126,1425117810656,830,/HotelApp/,200,OK,testhotelapp 1-3,text,true,17212,309
+54.159.243.126,1425117811368,541,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-2,text,true,12015,269
+54.159.243.126,1425117811910,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117810519,1390,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-2,,true,29638,592
+54.159.243.126,1425117811402,551,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-1,text,true,12015,274
+54.159.243.126,1425117811953,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117810524,1406,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-1,,true,29638,597
+54.159.243.126,1425117811486,536,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-3,text,true,12015,273
+54.159.243.126,1425117812023,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117810656,1367,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-3,,true,29638,583
+54.159.243.126,1425117811326,786,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-4,text,true,12015,269
+54.159.243.126,1425117812112,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117810489,1625,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-4,,true,29638,583
+54.159.243.126,1425117811912,749,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-2,text,true,16967,471
+54.159.243.126,1425117812662,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117811955,735,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-1,text,true,16967,472
+54.159.243.126,1425117812690,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117812025,741,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-3,text,true,16967,477
+54.159.243.126,1425117812767,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117812114,1021,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-4,text,true,16967,515
+54.159.243.126,1425117813135,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117812664,650,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-2,text,true,13957,389
+54.159.243.126,1425117813315,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117811912,1403,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-2,,true,31746,863
+54.159.243.126,1425117812692,657,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-1,text,true,13957,395
+54.159.243.126,1425117813349,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117811955,1396,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-1,,true,31746,871
+54.159.243.126,1425117812769,661,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-3,text,true,13957,397
+54.159.243.126,1425117813431,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117812025,1406,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-3,,true,31746,878
+54.159.243.126,1425117813318,263,/HotelApp/Logout.php,200,OK,testhotelapp 1-2,text,true,1960,263
+54.159.243.126,1425117813582,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117813318,264,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-2,,true,2371,264
+54.159.243.126,1425117813351,259,/HotelApp/Logout.php,200,OK,testhotelapp 1-1,text,true,1960,259
+54.159.243.126,1425117813611,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117813351,260,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-1,,true,2371,260
+54.159.243.126,1425117813433,260,/HotelApp/Logout.php,200,OK,testhotelapp 1-3,text,true,1960,260
+54.159.243.126,1425117813694,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117813433,262,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-3,,true,2371,262
+54.159.243.126,1425117813138,661,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-4,text,true,13957,381
+54.159.243.126,1425117813800,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117812114,1686,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-4,,true,31746,900
+54.159.243.126,1425117813803,262,/HotelApp/Logout.php,200,OK,testhotelapp 1-4,text,true,1960,262
+54.159.243.126,1425117814066,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117813803,264,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-4,,true,2371,264
+54.159.243.126,1425117813584,841,/HotelApp/,200,OK,testhotelapp 1-2,text,true,17212,312
+54.159.243.126,1425117813613,843,/HotelApp/,200,OK,testhotelapp 1-1,text,true,17212,305
+54.159.243.126,1425117813696,843,/HotelApp/,200,OK,testhotelapp 1-3,text,true,17212,304
+54.159.243.126,1425117814068,845,/HotelApp/,200,OK,testhotelapp 1-4,text,true,17212,306
+54.159.243.126,1425117814426,519,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-2,text,true,12015,259
+54.159.243.126,1425117814945,4,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,4
+54.159.243.126,1425117813584,1364,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-2,,true,29638,575
+54.159.243.126,1425117814456,523,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-1,text,true,12015,259
+54.159.243.126,1425117814980,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117813613,1368,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-1,,true,29638,566
+54.159.243.126,1425117814540,523,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-3,text,true,12015,262
+54.159.243.126,1425117815064,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117813696,1368,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-3,,true,29638,568
+54.159.243.126,1425117814914,535,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-4,text,true,12015,266
+54.159.243.126,1425117815449,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117814068,1382,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-4,,true,29638,574
+54.159.243.126,1425117814950,751,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-2,text,true,16967,474
+54.159.243.126,1425117815701,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117814982,751,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-1,text,true,16967,478
+54.159.243.126,1425117815733,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117815066,736,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-3,text,true,16967,474
+54.159.243.126,1425117815802,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117815452,762,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-4,text,true,16967,501
+54.159.243.126,1425117816214,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117815703,653,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-2,text,true,13957,389
+54.159.243.126,1425117816356,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117814950,1408,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-2,,true,31746,867
+54.159.243.126,1425117815735,669,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-1,text,true,13957,407
+54.159.243.126,1425117816404,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117814982,1424,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-1,,true,31746,889
+54.159.243.126,1425117815804,642,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-3,text,true,13957,380
+54.159.243.126,1425117816446,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117815066,1382,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-3,,true,31746,858
+54.159.243.126,1425117816359,260,/HotelApp/Logout.php,200,OK,testhotelapp 1-2,text,true,1960,260
+54.159.243.126,1425117816620,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117816358,261,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-2,,true,2371,261
+54.159.243.126,1425117816406,267,/HotelApp/Logout.php,200,OK,testhotelapp 1-1,text,true,1960,267
+54.159.243.126,1425117816674,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117816406,268,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-1,,true,2371,268
+54.159.243.126,1425117816448,257,/HotelApp/Logout.php,200,OK,testhotelapp 1-3,text,true,1960,257
+54.159.243.126,1425117816705,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117816448,259,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-3,,true,2371,259
+54.159.243.126,1425117816216,630,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-4,text,true,13957,370
+54.159.243.126,1425117816846,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117815452,1396,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-4,,true,31746,875
+54.159.243.126,1425117816848,264,/HotelApp/Logout.php,200,OK,testhotelapp 1-4,text,true,1960,264
+54.159.243.126,1425117817113,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117816848,265,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-4,,true,2371,265
+54.159.243.126,1425117816622,841,/HotelApp/,200,OK,testhotelapp 1-2,text,true,17212,310
+54.159.243.126,1425117816707,828,/HotelApp/,200,OK,testhotelapp 1-3,text,true,17212,299
+54.159.243.126,1425117816677,884,/HotelApp/,200,OK,testhotelapp 1-1,text,true,17212,306
+54.159.243.126,1425117817115,838,/HotelApp/,200,OK,testhotelapp 1-4,text,true,17212,304
+54.159.243.126,1425117817464,523,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-2,text,true,12015,259
+54.159.243.126,1425117817987,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117816622,1366,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-2,,true,29638,571
+54.159.243.126,1425117817535,519,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-3,text,true,12015,260
+54.159.243.126,1425117818055,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117816707,1348,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-3,,true,29638,560
+54.159.243.126,1425117817561,529,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-1,text,true,12015,265
+54.159.243.126,1425117818091,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117816676,1414,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-1,,true,29638,572
+54.159.243.126,1425117817953,531,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-4,text,true,12015,268
+54.159.243.126,1425117818484,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117817115,1371,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-4,,true,29638,574
+54.159.243.126,1425117817989,722,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-2,text,true,16967,461
+54.159.243.126,1425117818711,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117818060,732,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-3,text,true,16967,453
+54.159.243.126,1425117818792,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117818093,729,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-1,text,true,16967,470
+54.159.243.126,1425117818822,4,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,4
+54.159.243.126,1425117818487,700,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-4,text,true,16967,433
+54.159.243.126,1425117819190,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117818713,638,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-2,text,true,13957,371
+54.159.243.126,1425117819351,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117817989,1364,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-2,,true,31746,836
+54.159.243.126,1425117818795,631,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-3,text,true,13957,369
+54.159.243.126,1425117819426,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117818057,1367,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-3,,true,31746,826
+54.159.243.126,1425117818826,638,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-1,text,true,13957,370
+54.159.243.126,1425117819464,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117818093,1373,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-1,,true,31746,846
+54.159.243.126,1425117819353,271,/HotelApp/Logout.php,200,OK,testhotelapp 1-2,text,true,1960,271
+54.159.243.126,1425117819624,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117819353,273,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-2,,true,2371,273
+54.159.243.126,1425117819428,260,/HotelApp/Logout.php,200,OK,testhotelapp 1-3,text,true,1960,260
+54.159.243.126,1425117819688,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117819428,262,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-3,,true,2371,262
+54.159.243.126,1425117819467,268,/HotelApp/Logout.php,200,OK,testhotelapp 1-1,text,true,1960,268
+54.159.243.126,1425117819735,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117819466,270,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-1,,true,2371,270
+54.159.243.126,1425117819192,639,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-4,text,true,13957,371
+54.159.243.126,1425117819831,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117818486,1343,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-4,,true,31746,808
+54.159.243.126,1425117819626,899,/HotelApp/,200,OK,testhotelapp 1-2,text,true,17212,310
+54.159.243.126,1425117819690,846,/HotelApp/,200,OK,testhotelapp 1-3,text,true,17212,308
+54.159.243.126,1425117819833,726,/HotelApp/Logout.php,200,OK,testhotelapp 1-4,text,true,1960,726
+54.159.243.126,1425117820560,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117819833,727,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-4,,true,2371,727
+54.159.243.126,1425117819737,833,/HotelApp/,200,OK,testhotelapp 1-1,text,true,17212,312
+54.159.243.126,1425117820526,521,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-2,text,true,12015,260
+54.159.243.126,1425117821050,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117819626,1421,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-2,,true,29638,571
+54.159.243.126,1425117820537,530,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-3,text,true,12015,261
+54.159.243.126,1425117821067,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117819690,1378,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-3,,true,29638,571
+54.159.243.126,1425117820571,544,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-1,text,true,12015,261
+54.159.243.126,1425117821115,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117819737,1379,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-1,,true,29638,575
+54.159.243.126,1425117820562,836,/HotelApp/,200,OK,testhotelapp 1-4,text,true,17212,303
+54.159.243.126,1425117821052,736,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-2,text,true,16967,474
+54.159.243.126,1425117821789,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117821069,771,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-3,text,true,16967,489
+54.159.243.126,1425117821842,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117821117,743,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-1,text,true,16967,477
+54.159.243.126,1425117821861,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117821398,526,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-4,text,true,12015,265
+54.159.243.126,1425117821924,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117820562,1364,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-4,,true,29638,570
+54.159.243.126,1425117821792,661,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-2,text,true,13957,395
+54.159.243.126,1425117822454,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117821052,1400,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-2,,true,31746,872
+54.159.243.126,1425117821843,675,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-3,text,true,13957,415
+54.159.243.126,1425117822518,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117821069,1449,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-3,,true,31746,907
+54.159.243.126,1425117821863,680,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-1,text,true,13957,416
+54.159.243.126,1425117822544,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117821117,1427,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-1,,true,31746,897
+54.159.243.126,1425117821927,747,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-4,text,true,16967,485
+54.159.243.126,1425117822674,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117822456,261,/HotelApp/Logout.php,200,OK,testhotelapp 1-2,text,true,1960,260
+54.159.243.126,1425117822717,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117822456,263,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-2,,true,2371,262
+54.159.243.126,1425117822521,265,/HotelApp/Logout.php,200,OK,testhotelapp 1-3,text,true,1960,265
+54.159.243.126,1425117822786,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117822520,267,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-3,,true,2371,267
+54.159.243.126,1425117822546,265,/HotelApp/Logout.php,200,OK,testhotelapp 1-1,text,true,1960,265
+54.159.243.126,1425117822812,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117822546,267,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-1,,true,2371,266
+54.159.243.126,1425117822677,677,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-4,text,true,13957,387
+54.159.243.126,1425117823354,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117821926,1428,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-4,,true,31746,876
+54.159.243.126,1425117822719,848,/HotelApp/,200,OK,testhotelapp 1-2,text,true,17212,308
+54.159.243.126,1425117822788,829,/HotelApp/,200,OK,testhotelapp 1-3,text,true,17212,305
+54.159.243.126,1425117823357,276,/HotelApp/Logout.php,200,OK,testhotelapp 1-4,text,true,1960,276
+54.159.243.126,1425117823634,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117823357,278,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-4,,true,2371,278
+54.159.243.126,1425117822814,893,/HotelApp/,200,OK,testhotelapp 1-1,text,true,17212,319
+54.159.243.126,1425117823568,532,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-2,text,true,12015,260
+54.159.243.126,1425117824100,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117822719,1382,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-2,,true,29638,570
+54.159.243.126,1425117823618,521,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-3,text,true,12015,259
+54.159.243.126,1425117824140,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117822788,1351,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-3,,true,29638,565
+54.159.243.126,1425117823708,525,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-1,text,true,12015,261
+54.159.243.126,1425117824233,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117822814,1420,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-1,,true,29638,582
+54.159.243.126,1425117823637,844,/HotelApp/,200,OK,testhotelapp 1-4,text,true,17212,304
+54.159.243.126,1425117824103,749,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-2,text,true,16967,489
+54.159.243.126,1425117824856,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117824142,724,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-3,text,true,16967,460
+54.159.243.126,1425117824866,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117824235,748,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-1,text,true,16967,482
+54.159.243.126,1425117824984,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117824482,524,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-4,text,true,12015,263
+54.159.243.126,1425117825007,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117823637,1370,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-4,,true,29638,569
+54.159.243.126,1425117824858,667,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-2,text,true,13957,408
+54.159.243.126,1425117825526,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117824102,1419,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-2,,true,31746,900
+54.159.243.126,1425117824868,672,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-3,text,true,13957,407
+54.159.243.126,1425117825541,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117824141,1400,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-3,,true,31746,871
+54.159.243.126,1425117824985,684,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-1,text,true,13957,414
+54.159.243.126,1425117825670,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117824235,1435,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-1,,true,31746,899
+54.159.243.126,1425117825009,712,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-4,text,true,16967,453
+54.159.243.126,1425117825721,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117825528,261,/HotelApp/Logout.php,200,OK,testhotelapp 1-2,text,true,1960,261
+54.159.243.126,1425117825789,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117825528,263,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-2,,true,2371,263
+54.159.243.126,1425117825543,260,/HotelApp/Logout.php,200,OK,testhotelapp 1-3,text,true,1960,260
+54.159.243.126,1425117825803,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117825543,261,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-3,,true,2371,261
+54.159.243.126,1425117825672,265,/HotelApp/Logout.php,200,OK,testhotelapp 1-1,text,true,1960,265
+54.159.243.126,1425117825937,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117825672,267,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-1,,true,2371,267
+54.159.243.126,1425117825723,645,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-4,text,true,13957,375
+54.159.243.126,1425117826369,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117825009,1361,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-4,,true,31746,831
+54.159.243.126,1425117825791,841,/HotelApp/,200,OK,testhotelapp 1-2,text,true,17210,310
+54.159.243.126,1425117826371,264,/HotelApp/Logout.php,200,OK,testhotelapp 1-4,text,true,1960,264
+54.159.243.126,1425117826635,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117826371,266,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-4,,true,2371,266
+54.159.243.126,1425117825805,833,/HotelApp/,200,OK,testhotelapp 1-3,text,true,17210,309
+54.159.243.126,1425117825939,853,/HotelApp/,200,OK,testhotelapp 1-1,text,true,17210,309
+54.159.243.126,1425117826639,530,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-3,text,true,12013,265
+54.159.243.126,1425117827169,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117825805,1365,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-3,,true,29634,576
+54.159.243.126,1425117826632,540,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-2,text,true,12013,267
+54.159.243.126,1425117827172,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117825791,1383,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-2,,true,29634,579
+54.159.243.126,1425117826792,536,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-1,text,true,12013,267
+54.159.243.126,1425117827328,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117825939,1391,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-1,,true,29634,578
+54.159.243.126,1425117826637,859,/HotelApp/,200,OK,testhotelapp 1-4,text,true,17210,316
+54.159.243.126,1425117827174,742,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-2,text,true,16965,482
+54.159.243.126,1425117827916,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117827171,753,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-3,text,true,16965,483
+54.159.243.126,1425117827925,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117827496,525,/HotelApp/SearchHotel.php,200,OK,testhotelapp 1-4,text,true,12013,266
+54.159.243.126,1425117828022,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117826637,1386,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",testhotelapp 1-4,,true,29634,584
+54.159.243.126,1425117827330,729,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-1,text,true,16965,468
+54.159.243.126,1425117828060,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117827918,654,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-2,text,true,13955,372
+54.159.243.126,1425117828572,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117827174,1400,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-2,,true,31742,858
+54.159.243.126,1425117827926,659,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-3,text,true,13955,390
+54.159.243.126,1425117828586,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117827171,1414,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-3,,true,31742,875
+54.159.243.126,1425117828062,642,/HotelApp/BookHotel.php,200,OK,testhotelapp 1-1,text,true,13955,376
+54.159.243.126,1425117828704,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117827330,1375,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",testhotelapp 1-1,,true,31742,848
+54.159.243.126,1425117828024,732,/HotelApp/SelectHotel.php,200,OK,testhotelapp 1-4,text,true,16965,466
+54.159.243.126,1425117828757,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117828574,274,/HotelApp/Logout.php,200,OK,testhotelapp 1-2,text,true,1959,274
+54.159.243.126,1425117828849,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117828574,275,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-2,,true,2370,275
+54.159.243.126,1425117828587,272,/HotelApp/Logout.php,200,OK,testhotelapp 1-3,text,true,1959,272
+54.159.243.126,1425117828860,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117828587,273,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-3,,true,2370,273
+54.159.243.126,1425117828713,267,/HotelApp/Logout.php,200,OK,testhotelapp 1-1,text,true,1959,266
+54.159.243.126,1425117828980,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117828713,269,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",testhotelapp 1-1,,true,2370,268
+54.159.243.126,1425117828851,285,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117828861,283,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117828982,260,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117828759,659,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,14514,403
+54.159.243.126,1425117829419,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117828024,1394,Booking,,"Number of samples in transaction : 4, number of failing samples : 1",testhotelapp 1-4,,false,32301,872
+54.159.243.126,1425117829137,482,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117829619,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117828850,769,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117829144,496,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117829640,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117828861,781,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,2
+54.159.243.126,1425117829243,498,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117829742,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117828982,760,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,2
+54.159.243.126,1425117829421,489,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117829911,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117829421,490,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,1
+54.159.243.126,1425117829621,508,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117830130,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117829642,490,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117830134,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117829744,514,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117830259,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117829913,516,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117830136,505,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117830642,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117829642,998,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117830131,538,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117830674,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117829621,1049,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,3
+54.159.243.126,1425117830261,505,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117830766,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117829744,1022,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,3
+54.159.243.126,1425117830429,500,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117830929,5,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,5
+54.159.243.126,1425117829912,1021,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,5
+54.159.243.126,1425117830644,488,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117831133,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117830644,489,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,1
+54.159.243.126,1425117830676,489,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117831165,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117830676,491,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,2
+54.159.243.126,1425117830769,497,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117831268,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117830768,498,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,1
+54.159.243.126,1425117830934,506,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117831441,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117831135,487,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117831167,518,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117831270,500,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117831443,514,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117831956,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117830934,1024,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,4
+54.159.243.126,1425117831627,495,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117832122,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117831135,983,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117831685,501,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117832186,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117831167,1021,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117831770,498,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117832269,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117831270,999,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117831958,526,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117832484,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117831958,528,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117832188,688,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117832879,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117832124,761,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117832886,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117832271,698,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117832969,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117832486,506,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117832880,1158,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117832887,1153,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117834039,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117832188,1849,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,3
+54.159.243.126,1425117834040,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117832123,1917,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117832971,1079,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117832993,1058,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117834051,3,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,3
+54.159.243.126,1425117832486,1567,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,3
+54.159.243.126,1425117834050,4,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,4
+54.159.243.126,1425117832270,1783,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,6
+54.159.243.126,1425117834041,494,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117834536,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117834041,496,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,2
+54.159.243.126,1425117834042,500,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117834542,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117834042,502,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,2
+54.159.243.126,1425117834055,497,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117834553,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117834055,499,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,2
+54.159.243.126,1425117834054,537,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117834591,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117834544,501,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117834555,493,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117834594,521,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117835116,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117834054,1061,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117835046,490,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117835537,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117834544,992,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117835049,494,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117835543,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117834555,989,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,2
+54.159.243.126,1425117835118,488,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117835606,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117835117,490,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117835539,498,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117836038,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117835545,497,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117836043,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117835609,490,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117836040,492,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117836533,6,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,6
+54.159.243.126,1425117835539,997,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,7
+54.159.243.126,1425117836044,508,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117836553,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117835545,1007,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,2
+54.159.243.126,1425117836100,518,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117836619,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117835608,1010,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,2
+54.159.243.126,1425117836539,490,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117837030,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117836539,492,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,2
+54.159.243.126,1425117836555,496,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117837053,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117836555,497,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,1
+54.159.243.126,1425117836621,488,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117837110,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117837032,496,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117837055,517,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117837112,511,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117837624,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117836621,1003,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,4
+54.159.243.126,1425117837529,492,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117838022,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117837032,990,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,2
+54.159.243.126,1425117834538,3526,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117837573,501,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117838074,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117837055,1020,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,2
+54.159.243.126,1425117837626,499,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117838126,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117837626,501,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117838024,480,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117838505,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117838064,484,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117838549,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117834538,4012,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117838076,530,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117838606,3,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,3
+54.159.243.126,1425117838128,520,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117838506,515,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117839021,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117838024,998,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117838551,487,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117839039,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117838609,495,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117839104,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117838076,1030,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,5
+54.159.243.126,1425117838649,489,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117839138,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117838128,1011,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,2
+54.159.243.126,1425117839023,502,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117839526,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117839023,503,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,1
+54.159.243.126,1425117839041,506,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117839548,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117838551,996,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,3
+54.159.243.126,1425117839106,493,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117839599,3,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,3
+54.159.243.126,1425117839106,496,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,3
+54.159.243.126,1425117839141,505,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117839647,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117839528,500,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117839550,491,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117840041,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117839550,493,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,2
+54.159.243.126,1425117839602,489,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117839649,489,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117840139,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117839140,998,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,4
+54.159.243.126,1425117840029,493,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117840523,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117839527,995,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,2
+54.159.243.126,1425117840043,508,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117840092,509,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117840602,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117839602,1000,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,2
+54.159.243.126,1425117840141,519,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117840661,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117840141,521,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117840531,499,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117841030,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117840552,505,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117841058,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117840043,1015,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117840605,496,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117841102,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117840663,507,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117841032,496,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117841529,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117840525,998,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117841060,502,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117841563,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117841104,497,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117841602,3,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,3
+54.159.243.126,1425117840604,998,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,5
+54.159.243.126,1425117841170,502,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117841673,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117840663,1011,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,2
+54.159.243.126,1425117841531,503,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117842034,4,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,4
+54.159.243.126,1425117841531,507,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,4
+54.159.243.126,1425117841565,504,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117842069,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117841060,1010,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,4
+54.159.243.126,1425117841605,518,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117842124,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117841605,519,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,1
+54.159.243.126,1425117841675,508,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117842184,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117842039,511,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117842071,494,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117842566,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117842071,495,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,1
+54.159.243.126,1425117842126,495,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117842186,508,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117842695,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117841675,1019,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117842551,504,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117843056,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117842039,1016,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117842568,490,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117842621,496,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117843118,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117842126,992,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117842697,492,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117843190,3,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,3
+54.159.243.126,1425117842696,495,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,3
+54.159.243.126,1425117843059,499,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117843559,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117842568,991,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117843058,529,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117843588,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117843120,489,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117843609,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117843193,493,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117843561,487,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117844049,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117843591,497,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117844089,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117843057,1030,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,4
+54.159.243.126,1425117843611,519,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117844131,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117843120,1011,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,3
+54.159.243.126,1425117843692,496,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117844188,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117843193,991,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,2
+54.159.243.126,1425117844051,501,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117844553,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117843561,990,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,2
+54.159.243.126,1425117844091,524,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117844616,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117844091,526,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,2
+54.159.243.126,1425117844133,501,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117844635,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117844133,502,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,1
+54.159.243.126,1425117844190,488,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117844679,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117844554,507,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117845064,5,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,5
+54.159.243.126,1425117844554,512,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,5
+54.159.243.126,1425117844618,506,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117844637,511,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117844681,493,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117845175,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117844190,985,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,4
+54.159.243.126,1425117845069,479,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117845124,486,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117845611,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117844618,993,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117845149,499,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117845651,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117844637,1011,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117845177,493,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117845671,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117845177,495,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117845553,496,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117846050,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117845069,976,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,1
+54.159.243.126,1425117845613,490,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117846103,5,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,5
+54.159.243.126,1425117845652,503,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117846155,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117845673,493,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117846051,503,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117846555,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117846108,493,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117846602,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117845613,989,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,6
+54.159.243.126,1425117846157,500,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117846658,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117845652,1007,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,4
+54.159.243.126,1425117846166,499,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117846666,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117845673,993,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,1
+54.159.243.126,1425117846557,497,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117847055,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117846051,1002,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,2
+54.159.243.126,1425117846604,487,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117847091,3,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,3
+54.159.243.126,1425117846603,490,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,3
+54.159.243.126,1425117846660,495,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117847155,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117846660,497,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,2
+54.159.243.126,1425117846670,507,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117847178,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117847056,522,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117847578,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117847056,524,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,2
+54.159.243.126,1425117847094,507,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117847157,499,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117847180,527,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117847708,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117846670,1037,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117847580,499,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117847602,496,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117848098,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117847094,1005,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,2
+54.159.243.126,1425117847657,499,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117848157,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117847157,999,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117847710,520,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117848231,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117847710,521,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,1
+54.159.243.126,1425117848080,498,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117848579,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117847580,998,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,1
+54.159.243.126,1425117848100,523,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117848623,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117848158,486,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117848645,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117848233,492,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117848580,499,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117849080,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117848647,489,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117849136,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117848158,978,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,3
+54.159.243.126,1425117848625,550,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117849176,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117848100,1076,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117848726,496,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117849223,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117848232,989,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,1
+54.159.243.126,1425117849082,514,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117849597,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117848580,1015,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,2
+54.159.243.126,1425117849138,501,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117849639,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117849138,503,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,2
+54.159.243.126,1425117849177,490,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117849667,3,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,3
+54.159.243.126,1425117849177,493,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,3
+54.159.243.126,1425117849224,503,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117849728,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117849598,495,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117850094,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117849598,497,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,2
+54.159.243.126,1425117849641,495,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117849670,499,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117849729,502,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117850231,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117849224,1008,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117850096,493,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117850136,494,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117850631,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117849641,990,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117850170,516,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117850686,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117849670,1017,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,2
+54.159.243.126,1425117850233,499,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117850733,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117850233,501,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117850589,505,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117851095,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117850096,1000,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117850633,528,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117851162,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117850688,531,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117851220,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117850735,498,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117851097,493,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117851591,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117851163,499,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117851663,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117850633,1029,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,2
+54.159.243.126,1425117851233,488,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117851721,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117850735,988,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,2
+54.159.243.126,1425117851221,508,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117851730,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117850688,1041,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,2
+54.159.243.126,1425117851592,528,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117852125,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117851097,1024,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,2
+54.159.243.126,1425117851665,490,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117852156,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117851665,491,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,1
+54.159.243.126,1425117851731,493,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117852225,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117851731,494,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,1
+54.159.243.126,1425117851723,527,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117852251,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117852127,491,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117852619,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117852127,493,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,2
+54.159.243.126,1425117852157,524,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117852226,488,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117852253,495,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117852748,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117851723,1025,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117852621,498,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117852681,528,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117853209,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117852157,1054,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,2
+54.159.243.126,1425117852715,501,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117853217,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117852226,990,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117852750,498,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117853249,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117852750,499,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,1
+54.159.243.126,1425117853119,493,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117853613,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117852621,993,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117853211,496,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117853707,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117853218,504,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117853722,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117853250,489,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117853615,491,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117854107,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117853709,512,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117853739,483,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117854222,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117853211,1011,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,3
+54.159.243.126,1425117854223,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117853250,973,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,1
+54.159.243.126,1425117853724,505,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117854229,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117853218,1012,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117854109,507,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117854616,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117853615,1002,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,4
+54.159.243.126,1425117854224,493,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117854718,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117854223,498,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117854721,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117854223,500,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,2
+54.159.243.126,1425117854231,498,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117854730,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117854231,500,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,2
+54.159.243.126,1425117854618,521,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117855140,6,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,6
+54.159.243.126,1425117854618,527,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,6
+54.159.243.126,1425117854720,496,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117855217,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117854224,993,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,4
+54.159.243.126,1425117854732,495,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117854723,508,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117855146,501,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117855219,492,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117855711,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117855219,494,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117855228,491,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117855720,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117854732,987,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117855231,498,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117855730,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117854723,1007,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117855648,532,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117856181,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117855146,1034,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,1
+54.159.243.126,1425117855713,489,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117855721,505,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117855731,496,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117856226,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117856227,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117856202,490,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117856694,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117855713,980,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,1
+54.159.243.126,1425117856182,516,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117856699,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117856229,496,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117856728,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117855731,996,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,4
+54.159.243.126,1425117856228,525,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117856755,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117855721,1033,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117856696,491,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117857187,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117856730,493,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117857224,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117856730,494,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,1
+54.159.243.126,1425117856701,525,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117857227,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117856182,1044,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,3
+54.159.243.126,1425117856757,494,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117857251,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117856756,496,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,2
+54.159.243.126,1425117857189,491,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117857681,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117856696,985,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117857226,493,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117857253,489,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117857228,523,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117857751,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117857228,524,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,1
+54.159.243.126,1425117857683,495,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117858179,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117857683,497,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117857724,493,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117858217,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117857226,988,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,2
+54.159.243.126,1425117857753,492,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117857744,504,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117858248,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117857253,994,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117858181,496,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117858246,484,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117858730,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117857753,978,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117858219,518,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117858738,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117858250,496,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117858746,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117858678,485,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117859164,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117858181,982,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,1
+54.159.243.126,1425117858732,500,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117859232,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117858748,504,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117859253,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117858250,1003,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117858739,1532,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117860272,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117858219,2053,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,3
+54.159.243.126,1425117860274,4379,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117864653,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117860274,4381,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,2
+54.159.243.126,1425117859255,5416,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117864671,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117859255,5417,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,1
+54.159.243.126,1425117859166,5507,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117864674,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117859234,5462,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117864697,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117858732,5966,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,4
+54.159.243.126,1425117864655,496,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117864673,498,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117864675,505,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117865180,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117859166,6015,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117864699,484,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117865184,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117864699,485,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,1
+54.159.243.126,1425117865152,494,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117865647,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117864655,991,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117865172,493,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117865182,484,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117865665,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117864673,993,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,2
+54.159.243.126,1425117865666,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117865182,486,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117865185,497,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117865668,489,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117865683,487,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117866171,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117865185,986,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,1
+54.159.243.126,1425117865649,526,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117866176,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117865667,516,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117866183,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117866158,503,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117866660,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117865668,994,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,2
+54.159.243.126,1425117866185,508,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117866177,517,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117866693,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117865648,1046,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,3
+54.159.243.126,1425117866692,3,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,3
+54.159.243.126,1425117865667,1029,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,5
+54.159.243.126,1425117866662,489,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117867152,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117866695,483,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117867178,6,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,6
+54.159.243.126,1425117866695,489,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,6
+54.159.243.126,1425117866695,502,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117867198,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117866695,503,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,1
+54.159.243.126,1425117867153,506,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117867659,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117866662,998,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117867200,494,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117867184,511,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117867661,520,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117868181,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117867661,522,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117867695,493,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117868188,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117867184,1006,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,2
+54.159.243.126,1425117867695,495,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117868191,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117867200,990,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117868190,503,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117868192,503,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117868694,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117868695,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117868183,516,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117868697,505,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117869202,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117868192,1012,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,4
+54.159.243.126,1425117868696,510,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117869206,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117868190,1017,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,4
+54.159.243.126,1425117868699,524,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117869223,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117868183,1042,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,1
+54.159.243.126,1425117869204,497,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117866173,3530,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117869702,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117869702,3,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,3
+54.159.243.126,1425117869204,500,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,3
+54.159.243.126,1425117869208,501,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117869709,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117869208,503,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,2
+54.159.243.126,1425117869225,495,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117869721,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117869705,485,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117869704,495,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117870199,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117866173,4029,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,4
+54.159.243.126,1425117869711,494,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117869722,512,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117870234,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117869225,1009,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,2
+54.159.243.126,1425117870191,489,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117870681,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117869705,976,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,2
+54.159.243.126,1425117870205,507,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117870713,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117869711,1002,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117870236,481,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117870717,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117870236,482,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,1
+54.159.243.126,1425117870683,494,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117871178,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117870715,511,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117871227,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117870719,510,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117871180,524,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117871705,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117870683,1020,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,2
+54.159.243.126,1425117870201,1514,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117871715,9,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,9
+54.159.243.126,1425117870201,1523,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,9
+54.159.243.126,1425117871229,497,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117871727,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117870719,1008,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,1
+54.159.243.126,1425117871228,506,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117871734,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117870714,1020,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117871724,487,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117871736,476,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117872213,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117871736,477,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,1
+54.159.243.126,1425117871706,513,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117872219,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117871706,514,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,1
+54.159.243.126,1425117871728,502,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117872230,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117872215,494,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117872221,501,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117872212,519,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117872232,500,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117872731,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117871724,1008,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117872732,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117871728,1005,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117872722,485,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117873208,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117872221,987,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117872734,488,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117872710,513,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117873222,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117872734,490,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117873224,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117872214,1008,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117872733,503,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117873236,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117873210,507,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117873718,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117873224,496,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117873225,496,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117873721,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117873238,496,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117873738,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117872733,1003,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,4
+54.159.243.126,1425117873723,493,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117873720,497,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117873720,498,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117874217,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117873224,995,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,2
+54.159.243.126,1425117874218,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117873225,992,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117874218,3,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,3
+54.159.243.126,1425117873210,1009,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,4
+54.159.243.126,1425117873740,509,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117874250,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117873740,510,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,1
+54.159.243.126,1425117874220,487,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117874708,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117874220,488,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,1
+54.159.243.126,1425117874219,499,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117874719,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117874221,505,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117874726,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117874221,507,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,2
+54.159.243.126,1425117874252,498,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117874710,491,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117874721,482,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117875203,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117874219,984,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117874728,487,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117874751,514,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117875265,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117874252,1013,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,1
+54.159.243.126,1425117875205,488,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117875694,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117875205,490,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,2
+54.159.243.126,1425117875202,497,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117875699,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117874710,990,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,2
+54.159.243.126,1425117875215,490,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117875705,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117874728,979,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,2
+54.159.243.126,1425117875267,492,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117875759,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117875696,492,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117875701,497,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117876198,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117875707,521,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117876228,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117875761,506,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117876267,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117875266,1002,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,4
+54.159.243.126,1425117876189,499,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117876688,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117875696,993,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,2
+54.159.243.126,1425117876200,503,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117876703,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117875701,1004,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,4
+54.159.243.126,1425117876230,493,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117876723,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117875707,1018,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,4
+54.159.243.126,1425117876269,493,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117876762,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117876269,494,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,1
+54.159.243.126,1425117876690,500,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117877190,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117876705,494,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117877199,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117876705,496,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,2
+54.159.243.126,1425117876725,491,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117877216,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117876725,493,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,2
+54.159.243.126,1425117876764,505,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117877204,484,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117877192,497,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117877689,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117876690,1001,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,4
+54.159.243.126,1425117877219,490,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117877269,498,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117877767,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117876764,1005,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117877691,499,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117878192,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117877691,500,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,1
+54.159.243.126,1425117877709,491,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117878200,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117877218,983,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,2
+54.159.243.126,1425117877689,524,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117878214,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117877201,1009,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117877769,496,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117878265,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117878194,498,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117878215,498,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117878713,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117878202,545,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117878747,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117878267,497,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117878765,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117877769,996,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,3
+54.159.243.126,1425117878693,501,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117879195,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117878194,1000,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,1
+54.159.243.126,1425117878715,495,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117879211,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117878215,996,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117878749,508,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117879257,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117878202,1056,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,3
+54.159.243.126,1425117878766,493,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117879259,5,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,5
+54.159.243.126,1425117878766,498,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,5
+54.159.243.126,1425117879212,498,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117879711,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117879212,500,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,2
+54.159.243.126,1425117879197,529,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117879727,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117879264,488,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117879259,498,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117879757,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117879259,500,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,2
+54.159.243.126,1425117879713,504,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117879729,497,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117880227,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117879196,1028,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,2
+54.159.243.126,1425117879759,522,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117880218,495,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117880713,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117879713,1001,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,2
+54.159.243.126,1425117880229,525,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117880755,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117880228,526,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,1
+54.159.243.126,1425117880281,492,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117880774,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117879759,1015,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117880715,504,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117881220,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117880756,495,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117880775,482,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117881257,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117879753,1521,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117881274,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117879264,2011,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,2
+54.159.243.126,1425117881221,500,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117881721,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117880715,1007,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117881251,513,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117881259,506,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117881764,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117880756,1010,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,2
+54.159.243.126,1425117881765,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117880775,992,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,4
+54.159.243.126,1425117881276,523,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117881799,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117881723,501,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117882224,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117881723,503,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,2
+54.159.243.126,1425117881766,496,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117882262,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117881767,502,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117882269,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117881767,504,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,2
+54.159.243.126,1425117881801,513,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117882314,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117881276,1039,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,3
+54.159.243.126,1425117882226,494,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117882271,499,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117882268,520,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117882789,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117881766,1019,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-4,,false,4660,3
+54.159.243.126,1425117882316,492,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117882808,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117882316,493,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,1
+54.159.243.126,1425117882721,499,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117883221,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117882226,994,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-3,,false,4249,1
+54.159.243.126,1425117882770,500,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117883271,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117882271,1000,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-1,,false,4249,1
+54.159.243.126,1425117882790,490,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117883281,1,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,1
+54.159.243.126,1425117882790,491,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-4,,false,2330,1
+54.159.243.126,1425117882810,488,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117883222,493,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117883715,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117883272,499,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117883771,2,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,2
+54.159.243.126,1425117883283,517,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117883299,511,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117883811,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117882810,1000,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-2,,false,4249,1
+54.159.243.126,1425117883717,503,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117884221,1,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,1
+54.159.243.126,1425117883222,999,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-3,,false,4660,3
+54.159.243.126,1425117883773,508,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117884282,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117883272,1010,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-1,,false,4660,3
+54.159.243.126,1425117883801,494,/HotelApp/SearchHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-4,text,false,1919,0
+54.159.243.126,1425117884295,2,/__utm.gif,200,OK,testhotelapp 1-4,bin,true,411,2
+54.159.243.126,1425117883282,1013,Login,,"Number of samples in transaction : 3, number of failing samples : 2",testhotelapp 1-4,,false,4249,2
+54.159.243.126,1425117883812,491,/HotelApp/SelectHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117884304,1,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,1
+54.159.243.126,1425117884223,498,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117884721,2,/__utm.gif,200,OK,testhotelapp 1-3,bin,true,411,2
+54.159.243.126,1425117884222,500,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-3,,false,2330,2
+54.159.243.126,1425117884283,495,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117884779,1,/__utm.gif,200,OK,testhotelapp 1-1,bin,true,411,1
+54.159.243.126,1425117884283,496,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-1,,false,2330,1
+54.159.243.126,1425117884305,490,/HotelApp/BookHotel.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117884795,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117883812,984,Booking,,"Number of samples in transaction : 4, number of failing samples : 2",testhotelapp 1-2,,false,4660,3
+54.159.243.126,1425117884723,508,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-3,text,false,1919,0
+54.159.243.126,1425117884781,499,/HotelApp/,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-1,text,false,1919,0
+54.159.243.126,1425117884797,497,/HotelApp/Logout.php,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,testhotelapp 1-2,text,false,1919,0
+54.159.243.126,1425117885294,2,/__utm.gif,200,OK,testhotelapp 1-2,bin,true,411,2
+54.159.243.126,1425117884797,499,Logout,,"Number of samples in transaction : 2, number of failing samples : 1",testhotelapp 1-2,,false,2330,2
+54.159.243.126,1425117885296,187950,/HotelApp/,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,testhotelapp 1-2,text,false,2301,0
+54.159.243.126,1425117885280,188985,/HotelApp/SearchHotel.php,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,testhotelapp 1-1,text,false,2301,0
+54.159.243.126,1425117885232,189545,/HotelApp/SearchHotel.php,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,testhotelapp 1-3,text,false,2301,0
+54.159.243.126,1425117884297,199456,/HotelApp/SelectHotel.php,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,testhotelapp 1-4,text,false,2301,0

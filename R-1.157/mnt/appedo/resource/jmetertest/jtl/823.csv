@@ -1,0 +1,4 @@
+54.83.75.155,1436344003227,1574,Pre-Login,200,OK,Thread Group 1-1,text,true,3201,1559
+54.83.75.155,1436344004845,46,Login-Stg,200,OK,Thread Group 1-1,text,false,1279,46
+54.83.75.155,1436344005245,1202,Logout,200,OK,Thread Group 1-1,text,true,95465,154
+54.83.75.155,1436344006461,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,516,0

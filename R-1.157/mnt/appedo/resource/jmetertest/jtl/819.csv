@@ -1,0 +1,30 @@
+54.83.75.155,1436341903610,752,/HotelApp/,200,OK,Thread Group 1-1,text,true,1853,751
+54.83.75.155,1436341904367,276,/HotelApp/js/login.js,200,OK,Thread Group 1-1,text,true,601,276
+54.83.75.155,1436341904644,266,/HotelApp/css/main.css,200,OK,Thread Group 1-1,text,true,1159,266
+54.83.75.155,1436341904911,279,/HotelApp/img/Hotel4.jpg,200,OK,Thread Group 1-1,bin,true,3172,279
+54.83.75.155,1436341905190,270,/HotelApp/img/AdactIn_logo.png,200,OK,Thread Group 1-1,bin,true,10088,270
+54.83.75.155,1436341905461,262,/HotelApp/img/Hotel1.jpg,200,OK,Thread Group 1-1,bin,true,4729,262
+54.83.75.155,1436341905724,260,/HotelApp/img/hotel.jpg,200,OK,Thread Group 1-1,bin,true,24978,259
+54.83.75.155,1436341905985,259,/HotelApp/img/Hotel2.jpg,200,OK,Thread Group 1-1,bin,true,4547,259
+54.83.75.155,1436341906245,521,/HotelApp/img/Hotel3.jpg,200,OK,Thread Group 1-1,bin,true,48545,264
+54.83.75.155,1436341906772,5010,/ga.js,200,OK,Thread Group 1-1,text,true,16448,5009
+54.83.75.155,1436341911783,561,/HotelApp/img/header-bg.jpg,200,OK,Thread Group 1-1,bin,true,682,561
+54.83.75.155,1436341912345,39,/r/__utm.gif,200,OK,Thread Group 1-1,bin,true,406,38
+54.83.75.155,1436341912384,283,/favicon.ico,404,Not Found,Thread Group 1-1,text,false,2919,283
+54.83.75.155,1436341912668,260,/favicon.ico,404,Not Found,Thread Group 1-1,text,false,2919,260
+54.83.75.155,1436341912929,619,/HotelApp/,200,OK,Thread Group 1-1,text,true,8216,336
+54.83.75.155,1436341913549,262,/HotelApp/js/search_hotel.js,200,OK,Thread Group 1-1,text,true,1100,262
+54.83.75.155,1436341913812,11,/__utm.gif,200,OK,Thread Group 1-1,bin,true,407,11
+54.83.75.155,1436341913834,762,/HotelApp/img/book_selenium_webdriver_app.png,200,OK,Thread Group 1-1,bin,true,53225,509
+54.83.75.155,1436341914599,505,/HotelApp/img/book_hp_uft_navneesh_garg_hotelapp.png,200,OK,Thread Group 1-1,bin,true,74146,253
+54.83.75.155,1436341915110,500,/HotelApp/SelectHotel.php,200,OK,Thread Group 1-1,text,true,2788,500
+54.83.75.155,1436341915611,273,/HotelApp/js/select_hotel.js,200,OK,Thread Group 1-1,text,true,1047,273
+54.83.75.155,1436341915892,2,/__utm.gif,200,OK,Thread Group 1-1,bin,true,407,2
+54.83.75.155,1436341915895,431,/HotelApp/BookHotel.php,200,OK,Thread Group 1-1,text,true,3363,429
+54.83.75.155,1436341916327,293,/HotelApp/js/book_hotel.js,200,OK,Thread Group 1-1,text,true,1210,293
+54.83.75.155,1436341916625,10,/__utm.gif,200,OK,Thread Group 1-1,bin,true,407,10
+54.83.75.155,1436341916636,410,/HotelApp/BookingConfirm.php,200,OK,Thread Group 1-1,text,true,2725,410
+54.83.75.155,1436341917047,3,/__utm.gif,200,OK,Thread Group 1-1,bin,true,407,3
+54.83.75.155,1436341917051,282,/HotelApp/Logout.php,200,OK,Thread Group 1-1,text,true,1902,282
+54.83.75.155,1436341917334,10,/__utm.gif,200,OK,Thread Group 1-1,bin,true,407,10
+54.83.75.155,1436341902717,13671,HotelApp,,"Number of samples in transaction : 29, number of failing samples : 2",Thread Group 1-1,,false,274803,12620

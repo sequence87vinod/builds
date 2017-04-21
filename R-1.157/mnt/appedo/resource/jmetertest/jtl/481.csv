@@ -1,0 +1,16 @@
+54.146.184.41,1426414906125,1254,/,200,OK,youtubesearch 1-1,text,true,36516,975
+54.146.184.41,1426414905180,1254,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-1,,true,36516,975
+54.146.184.41,1426414906125,1332,/,200,OK,youtubesearch 1-2,text,true,35370,976
+54.146.184.41,1426414905431,1332,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-2,,true,35370,976
+54.146.184.41,1426414906109,1432,/,200,OK,youtubesearch 1-3,text,true,36825,987
+54.146.184.41,1426414905686,1432,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-3,,true,36825,987
+54.146.184.41,1426414906123,1482,/,200,OK,youtubesearch 1-4,text,true,36838,974
+54.146.184.41,1426414905937,1482,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-4,,true,36838,974
+54.146.184.41,1426414907459,200,/results,200,OK,youtubesearch 1-2,text,true,24917,27
+54.146.184.41,1426414907458,200,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-2,,true,24917,27
+54.146.184.41,1426414907543,239,/results,200,OK,youtubesearch 1-3,text,true,25075,28
+54.146.184.41,1426414907542,239,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-3,,true,25075,28
+54.146.184.41,1426414907608,189,/results,200,OK,youtubesearch 1-4,text,true,24953,39
+54.146.184.41,1426414907606,189,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-4,,true,24953,39
+54.146.184.41,1426414907401,427,/results,200,OK,youtubesearch 1-1,text,true,25234,45
+54.146.184.41,1426414907390,427,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-1,,true,25234,45

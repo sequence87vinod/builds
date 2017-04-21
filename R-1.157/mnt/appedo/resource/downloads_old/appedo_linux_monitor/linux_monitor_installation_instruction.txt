@@ -1,0 +1,19 @@
+Linux agent installation instructions:
+
+1. Create Appedo agent's home directory
+	mkdir /mnt/appedo_linux_agent
+	cd /mnt/appedo_linux_agent
+2. Download the agent under /mnt/appedo_linux_agent
+
+3. Untar the downloaded setup 
+	tar -xzmvf appedo_linux_agent.tar.gz
+
+4. Install SSL
+	cd appedo_linux_agent
+	cp $JAVA_HOME/jre/lib/security/cacerts cacerts_appedo_agent
+	keytool -import -alias apm.appedo.com -keystore cacerts_appedo_agent -storepass changeit -file apm.appedo.com.crt -noprompt
+
+	Note: "changeit" is the default store password for the "cacerts". If it changed, then use the new password in the above and below commands.
+5. Run the agent in background:
+	cd /mnt/appedo_linux_agent
+	nohup java -Djavax.net.ssl.trustStore=cacerts_appedo_agent -Djavax.net.ssl.trustStorePassword=changeit -jar appedo_linux_agent.jar > logs/appedo_linux_agent_$(date +%Y-%m-%d_%H%M).log &

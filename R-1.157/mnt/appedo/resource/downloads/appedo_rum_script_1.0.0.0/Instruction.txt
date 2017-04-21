@@ -1,0 +1,4 @@
+Instructions for adding rum script to application pages.
+
+1. Open Rum_head.txt file
+2. Copy file content and put in the respective application page header part .

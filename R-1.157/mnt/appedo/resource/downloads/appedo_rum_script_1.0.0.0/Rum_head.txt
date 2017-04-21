@@ -1,0 +1,17 @@
+<script src="@RUM_COLLECTOR_URL@/js/boomerang.js"></script>
+<script src="@RUM_COLLECTOR_URL@/js/navtiming.js"></script>
+<script src="@RUM_COLLECTOR_URL@/js/detect.min.js"></script>
+<script>
+  var user = detect.parse(navigator.userAgent);
+  BOOMR.addVar({
+        "browserName": user.browser.name,
+        "deviceType": user.device.type,
+        "OS": user.os.name,
+        "devicename": user.device.name,
+        "merchantname":user.device.family,
+        "guid": "@GUID@"
+  });
+  BOOMR.init({
+    beacon_url: "@RUM_COLLECTOR_URL@/rumCollector"
+  });
+</script>

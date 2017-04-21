@@ -1,0 +1,48 @@
+54.204.121.217,1428821664536,1399,/HotelApp/,200,OK,HotelApp 1-2,text,true,17213,841
+54.204.121.217,1428821664538,1387,/HotelApp/,200,OK,HotelApp 1-1,text,true,17213,837
+54.204.121.217,1428821665948,527,/HotelApp/SearchHotel.php,200,OK,HotelApp 1-2,text,true,12015,262
+54.204.121.217,1428821665949,551,/HotelApp/SearchHotel.php,200,OK,HotelApp 1-1,text,true,12015,274
+54.204.121.217,1428821666533,26,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,26
+54.204.121.217,1428821659133,1952,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",HotelApp 1-2,,true,29638,1129
+54.204.121.217,1428821666557,33,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,32
+54.204.121.217,1428821658658,1971,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",HotelApp 1-1,,true,29638,1143
+54.204.121.217,1428821666588,775,/HotelApp/SelectHotel.php,200,OK,HotelApp 1-2,text,true,16967,511
+54.204.121.217,1428821666590,775,/HotelApp/SelectHotel.php,200,OK,HotelApp 1-1,text,true,16967,511
+54.204.121.217,1428821667368,6,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,6
+54.204.121.217,1428821667364,14,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,14
+54.204.121.217,1428821667375,682,/HotelApp/BookHotel.php,200,OK,HotelApp 1-1,text,true,13957,417
+54.204.121.217,1428821668058,3,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,3
+54.204.121.217,1428821666590,1466,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",HotelApp 1-1,,true,31744,937
+54.204.121.217,1428821667396,680,/HotelApp/BookHotel.php,200,OK,HotelApp 1-2,text,true,13957,416
+54.204.121.217,1428821668078,4,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,4
+54.204.121.217,1428821666559,1473,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",HotelApp 1-2,,true,31744,945
+54.204.121.217,1428821668082,258,/HotelApp/Logout.php,200,OK,HotelApp 1-2,text,true,1960,258
+54.204.121.217,1428821668067,275,/HotelApp/Logout.php,200,OK,HotelApp 1-1,text,true,1960,275
+54.204.121.217,1428821668343,2,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,2
+54.204.121.217,1428821668061,277,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",HotelApp 1-1,,true,2370,277
+54.204.121.217,1428821668341,6,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,6
+54.204.121.217,1428821668082,264,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",HotelApp 1-2,,true,2370,264
+54.204.121.217,1428821668349,896,/HotelApp/,200,OK,HotelApp 1-2,text,true,17212,371
+54.204.121.217,1428821668347,911,/HotelApp/,200,OK,HotelApp 1-1,text,true,17212,359
+54.204.121.217,1428821669246,537,/HotelApp/SearchHotel.php,200,OK,HotelApp 1-2,text,true,12015,266
+54.204.121.217,1428821669784,2,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,2
+54.204.121.217,1428821668349,1435,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",HotelApp 1-2,,true,29637,639
+54.204.121.217,1428821669258,551,/HotelApp/SearchHotel.php,200,OK,HotelApp 1-1,text,true,12015,268
+54.204.121.217,1428821669810,4,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,4
+54.204.121.217,1428821668346,1466,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",HotelApp 1-1,,true,29637,631
+54.204.121.217,1428821669787,724,/HotelApp/SelectHotel.php,200,OK,HotelApp 1-2,text,true,16967,454
+54.204.121.217,1428821670514,2,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,2
+54.204.121.217,1428821669814,751,/HotelApp/SelectHotel.php,200,OK,HotelApp 1-1,text,true,16967,480
+54.204.121.217,1428821670566,2,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,2
+54.204.121.217,1428821670517,653,/HotelApp/BookHotel.php,200,OK,HotelApp 1-2,text,true,13957,392
+54.204.121.217,1428821671176,2,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,2
+54.204.121.217,1428821669787,1381,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",HotelApp 1-2,,true,31744,850
+54.204.121.217,1428821670574,669,/HotelApp/BookHotel.php,200,OK,HotelApp 1-1,text,true,13957,398
+54.204.121.217,1428821671243,3,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,3
+54.204.121.217,1428821669814,1425,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",HotelApp 1-1,,true,31744,883
+54.204.121.217,1428821671179,310,/HotelApp/Logout.php,200,OK,HotelApp 1-2,text,true,1960,310
+54.204.121.217,1428821671489,3,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,3
+54.204.121.217,1428821671179,313,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",HotelApp 1-2,,true,2370,313
+54.204.121.217,1428821671249,273,/HotelApp/Logout.php,200,OK,HotelApp 1-1,text,true,1960,273
+54.204.121.217,1428821671523,2,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,2
+54.204.121.217,1428821671249,275,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",HotelApp 1-1,,true,2370,275

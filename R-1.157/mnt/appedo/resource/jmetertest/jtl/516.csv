@@ -1,0 +1,36 @@
+54.158.90.52,1427529851470,6274,/HotelApp/,200,OK,HotelApp 1-3,text,true,17213,5721
+54.158.90.52,1427529851470,6258,/HotelApp/,200,OK,HotelApp 1-2,text,true,17213,5731
+54.158.90.52,1427529851454,6268,/HotelApp/,200,OK,HotelApp 1-1,text,true,17213,5746
+54.158.90.52,1427529857748,515,/HotelApp/SearchHotel.php,200,OK,HotelApp 1-1,text,true,12015,259
+54.158.90.52,1427529857747,525,/HotelApp/SearchHotel.php,200,OK,HotelApp 1-2,text,true,12015,265
+54.158.90.52,1427529857746,539,/HotelApp/SearchHotel.php,200,OK,HotelApp 1-3,text,true,12015,268
+54.158.90.52,1427529858301,30,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,30
+54.158.90.52,1427529850555,6813,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",HotelApp 1-1,,true,29638,6035
+54.158.90.52,1427529858334,29,/__utm.gif,200,OK,HotelApp 1-3,bin,true,410,29
+54.158.90.52,1427529851373,6842,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",HotelApp 1-3,,true,29638,6018
+54.158.90.52,1427529858384,24,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,24
+54.158.90.52,1427529850936,6807,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",HotelApp 1-2,,true,29638,6020
+54.158.90.52,1427529858332,708,/HotelApp/SelectHotel.php,200,OK,HotelApp 1-1,text,true,16967,440
+54.158.90.52,1427529859041,11,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,11
+54.158.90.52,1427529858364,704,/HotelApp/SelectHotel.php,200,OK,HotelApp 1-3,text,true,16967,446
+54.158.90.52,1427529859069,10,/__utm.gif,200,OK,HotelApp 1-3,bin,true,410,10
+54.158.90.52,1427529858408,695,/HotelApp/SelectHotel.php,200,OK,HotelApp 1-2,text,true,16967,432
+54.158.90.52,1427529859104,11,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,11
+54.158.90.52,1427529859053,666,/HotelApp/BookHotel.php,200,OK,HotelApp 1-1,text,true,13957,384
+54.158.90.52,1427529859720,11,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,11
+54.158.90.52,1427529858331,1396,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",HotelApp 1-1,,true,31744,846
+54.158.90.52,1427529859080,659,/HotelApp/BookHotel.php,200,OK,HotelApp 1-3,text,true,13957,396
+54.158.90.52,1427529859740,10,/__utm.gif,200,OK,HotelApp 1-3,bin,true,410,10
+54.158.90.52,1427529858364,1383,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",HotelApp 1-3,,true,31744,862
+54.158.90.52,1427529859115,682,/HotelApp/BookHotel.php,200,OK,HotelApp 1-2,text,true,13957,417
+54.158.90.52,1427529859798,11,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,11
+54.158.90.52,1427529858408,1399,Booking,200,"Number of samples in transaction : 4, number of failing samples : 0",HotelApp 1-2,,true,31744,871
+54.158.90.52,1427529859732,257,/HotelApp/Logout.php,200,OK,HotelApp 1-1,text,true,1960,257
+54.158.90.52,1427529859990,12,/__utm.gif,200,OK,HotelApp 1-1,bin,true,410,12
+54.158.90.52,1427529859732,269,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",HotelApp 1-1,,true,2370,269
+54.158.90.52,1427529859751,268,/HotelApp/Logout.php,200,OK,HotelApp 1-3,text,true,1960,268
+54.158.90.52,1427529860020,10,/__utm.gif,200,OK,HotelApp 1-3,bin,true,410,10
+54.158.90.52,1427529859751,278,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",HotelApp 1-3,,true,2370,278
+54.158.90.52,1427529859809,262,/HotelApp/Logout.php,200,OK,HotelApp 1-2,text,true,1960,262
+54.158.90.52,1427529860072,11,/__utm.gif,200,OK,HotelApp 1-2,bin,true,410,11
+54.158.90.52,1427529859809,273,Logout,200,"Number of samples in transaction : 2, number of failing samples : 0",HotelApp 1-2,,true,2370,273

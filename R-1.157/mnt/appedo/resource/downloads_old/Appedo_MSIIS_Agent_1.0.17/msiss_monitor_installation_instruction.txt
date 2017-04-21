@@ -1,0 +1,8 @@
+MSIIS agent installation instructions:
+1. Create @appln_heading@ agent's home folder
+	D:\@download_appln_name_lowercase@_msiis_agent
+2. Download the agent under D:\@download_appln_name_lowercase@_msiis_agent
+
+3. Use Winrar/Winzip/Other tools to extract the downloaded setup
+
+4. Run the agent by double clicking D:\@download_appln_name_lowercase@_msiis_agent\@download_appln_name_lowercase@_msiis_agent_#VERSION#\setup.exe

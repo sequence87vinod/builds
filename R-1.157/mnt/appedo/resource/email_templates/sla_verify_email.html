@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+<HEAD>
+	<meta content="Microsoft Visual Studio .NET 7.1" name="GENERATOR">
+	<meta content="C#" name="CODE_LANGUAGE">
+	<meta content="JavaScript" name="vs_defaultClientScript">
+	<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+</HEAD>
+<BODY>
+	<FORM id="FORM" name="FORM" method="post" target="_blank">
+		<TABLE class="outerTable" width="100%" cellPadding="6" style="padding: 10px 15px 15px 5px !important; font-size: 12px;" >
+			<TR>
+				<TD align="left">
+<!-- 					<A href="http://learn.openmentor.net/openmentor/view/user/" target="_blank"> -->
+<!-- 						<img width="210" height="50" title="" alt="Appedo" src="http://54.89.145.85:8080/appedo/images/New Appedo_Logo 205x45-01.png" > -->
+<!-- 					</A> -->
+					
+<!--					{% if ADDRESS_USER|default("", True) == "" %}
+						<P>
+						{% if IS_NON_LOGIN_USER|default(false, True) == false %}
+						Dear {{USERNAME}},
+						{% else %}
+						Greetings from Appedo!
+						{% endif %}
+						</P>
+						<p>
+						{% if IS_NON_LOGIN_USER|default(false, True) == false %}
+						Your Email-Id has been configured in SLA Alerts.
+						{% else %}
+						Your Email-Id has been configured in SLA Alerts, for our user {{USERNAME}}.
+						{% endif %}
+						</p>
+					{% else %} -->
+						<P>
+						{{ADDRESS_USER}}
+						</P>
+						<p>
+						Your Email-Id has been configured in SLA Alerts{{LOGIN_USER_INFO_SUFFIX}}.
+						</p>
+<!--					{% endif %} -->
+
+
+					<p>Please click the below link to verify it. </p>
+					
+					<P>
+						<br><a href="{{LINK}}" target="_blank" style='border:1px solid #888; background-color:#eff0ab; padding: 6px 10px 6px 10px; text-decoration:none; color:#fd0000;'>Verify my Email-id</a><br>
+					</P>
+					
+					<P><br>Please save this mail for further reference.</P>
+				</TD>
+			</TR>
+			<TR>
+				<TD>
+					<P>Sincerely,</P>
+					<P><B>{{ appln_heading }} Team</B></P>
+				</TD>
+			</TR>
+			<TR>
+				<TD>
+					--
+					<P style="font-size: 10px;">You received this message because you are subscribed to {{ company_website }} product suite.<br>
+					To unsubscribe from our newsletters, send an email to {{ unsubscribe_emailid }}.</P>
+				</TD>
+			</TR>
+		</TABLE>
+	</FORM>
+</BODY>
+</HTML>

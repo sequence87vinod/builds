@@ -1,0 +1,66 @@
+@appln_heading@-Java-CI help:
+
+I) Installation:
+1. Extract the @download_appln_name_lowercase@_java_ci_#VERSION#.rar in the lib directory of the required Project.
+2. Include the @download_appln_name_lowercase@_java_ci_#VERSION#.jar into your project.
+3. Edit the @download_appln_name_lowercase@_config.properties and add your GUID instead of <YOUR_GUID>
+
+
+II) Install SSL for HTTPS communication:
+1. Import the @appln_heading@ certificate in your Java.
+cd $JAVA_HOME/jre/lib/security/
+keytool -import -alias apm.@appln_heading@.com -keystore cacerts -storepass changeit -file apm.@appln_heading@.com.crt -noprompt
+
+
+
+II) Usage:
+Event:
+1. Set the User details like below code sample:
+	JSONObject user = new JSONObject();
+	user.put("user_first_name", "Abdul");
+	user.put("user_last_name", "Kalam");
+	user.put("email_id", "abj@gmail.com");
+	user.put("mobile_no", "");
+	String userprops = user.toString();
+	
+	@download_appln_name_camelcase@_CI.setUserProps("user_props_key", userprops);
+
+
+2. To indicate a Event execution:
+	JSONObject params = new JSONObject();
+	params.put("Employee Name", empName);
+	params.put("No Of Days", noOfDays);
+	String jsonParams = params.toString();
+	
+	@download_appln_name_camelcase@_CI.triggerEvent("user_props_key", "Search Book", "", jsonParams);
+
+
+Transactions:
+
+1. Set the User details like below code sample:
+	JSONObject user = new JSONObject();
+	user.put("user_first_name", "Abdul");
+	user.put("user_last_name", "Kalam");
+	user.put("email_id", "abj@gmail.com");
+	user.put("mobile_no", "");
+	String userprops = user.toString();
+	
+	@download_appln_name_camelcase@_CI.setUserProps("user_props_key", userprops);
+
+
+2. Start the Transaction, by adding the code like the below in starting of any function:
+	private String tx1 = null;
+	
+	JSONObject params = new JSONObject();
+	params.put("Employee Name", empName);
+	params.put("No Of Days", noOfDays);
+	params.put("Status", "Approved");
+	String jsonParams = user.toString();
+	
+	// Call StartTransaction method
+	tx1 = @download_appln_name_camelcase@_CI.startTransaction("user_props_key", "Approve Leave", "approveLeave", jsonParams);
+
+
+3. Complete the transaction, by adding the code like the below in end of the above function:
+	
+	@download_appln_name_camelcase@_CI.completeTransaction(tx1);

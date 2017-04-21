@@ -1,0 +1,27 @@
+<table cellpadding="3px" cellspacing="0" width="100%">
+<tbody><tr>
+<th style="background-color: #f9f9f9; color: #f8931e;" >Server Name</th>
+</tr>
+<tr height="15px">
+<td style="padding-bottom: 25px;" >
+<span >{{module_code}} :: {{module_detail_name}}</span>
+</td>
+</tr>
+<tr>
+<th style="background-color: #f9f9f9; color: #f8931e;" >Category :: Metric Name</th>
+</tr>
+<tr>
+<td style="padding-bottom: 25px;" >{{category}} :: {{counter_name}}</td>
+</tr>
+<tr>
+<th style="background-color: #f9f9f9; color: #f8931e;" >Breach Details</th>
+</tr>
+<tr>
+<td style="padding-bottom: 5px;" >
+	<span style="font-size: 22px; font-weight: bold;" >{{received_value}}</span>&nbsp;{{breached_unit}}
+	<span style="font-size: 12px; font-weight: bold;">{{threshold_operator}}</span>&nbsp;{{threshold_value}}&nbsp;{{threshold_unit}}
+<span style="padding: 10px; " ></span>
+<span style="padding: 3px 12px; width: 85px; height: 22px; vertical-align: middle; text-align:center; background-color:{{severity_color}}; color:#eee; font-weight:bold;" >{{breached_severity}}</span></td>
+</tr>
+</tbody></table><br>
+<div style="border-top: 1px solid #DDD; height:35px; width:150%; margin-left: -25%" ></div>

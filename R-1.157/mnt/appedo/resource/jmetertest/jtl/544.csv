@@ -1,0 +1,20 @@
+54.163.212.233,1428136170247,1538,/,200,OK,youtubesearch 1-3,text,true,34847,1207
+54.163.212.233,1428136169796,1538,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-3,,true,34847,1207
+54.163.212.233,1428136170247,1539,/,200,OK,youtubesearch 1-2,text,true,34982,1198
+54.163.212.233,1428136169598,1539,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-2,,true,34982,1198
+54.163.212.233,1428136170237,1608,/,200,OK,youtubesearch 1-1,text,true,34760,1209
+54.163.212.233,1428136170247,1536,/,200,OK,youtubesearch 1-4,text,true,34937,1211
+54.163.212.233,1428136169991,1536,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-4,,true,34937,1211
+54.163.212.233,1428136170307,1511,/,200,OK,youtubesearch 1-5,text,true,34868,1151
+54.163.212.233,1428136170185,1511,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-5,,true,34868,1151
+54.163.212.233,1428136169387,1608,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-1,,true,34760,1209
+54.163.212.233,1428136171880,216,/results,200,OK,youtubesearch 1-4,text,true,25180,64
+54.163.212.233,1428136171879,216,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-4,,true,25180,64
+54.163.212.233,1428136171892,230,/results,200,OK,youtubesearch 1-1,text,true,25426,50
+54.163.212.233,1428136171891,230,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-1,,true,25426,50
+54.163.212.233,1428136171875,256,/results,200,OK,youtubesearch 1-3,text,true,25262,64
+54.163.212.233,1428136171864,256,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-3,,true,25262,64
+54.163.212.233,1428136171882,261,/results,200,OK,youtubesearch 1-5,text,true,25172,58
+54.163.212.233,1428136171881,261,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-5,,true,25172,58
+54.163.212.233,1428136171878,286,/results,200,OK,youtubesearch 1-2,text,true,25508,67
+54.163.212.233,1428136171865,286,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-2,,true,25508,67

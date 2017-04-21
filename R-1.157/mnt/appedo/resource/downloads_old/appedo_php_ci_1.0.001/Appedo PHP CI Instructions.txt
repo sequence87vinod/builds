@@ -1,0 +1,46 @@
+1. Include the below php script in configuration file. Assuming that the downloaded "appedo_ci.php" file is placed in the folder "classes".
+
+//Whether to send the colleced information to Appedo server or not. 
+//Possible values "Y" or "N"
+define('SEND_DATA_TO_SERVER','Y');
+
+require_once('classes/appedo_ci.php');
+
+First param "APPEDO_UI_GUID", 
+Second param in which environment the collector is used - Production (PROD) or Develop
+Third param - whether the data need to be send to appedo server or not
+
+$ap = new Appedo('@GUID@','DEV',SEND_DATA_TO_SERVER);
+
+//Details about the user
+$ap->setUserProps(array('user_first_name' => 'appedo',
+                        'user_last_name'=>'appedo',
+                        'email_id' => 'appedo@appedo.com'));
+
+
+2. Event Tracking
+   Add the following script anywhere in the php code from where you need to collect the information
+
+    $curlreturn = $ap->triggerEvent('SearchBook', 'BookPage', 
+                                    array('book_name' => 'The Wings of Fire', 
+                                        'book_author' => 'APJ Adbul Kalam')
+                                    );
+
+3. The users can add maximum of 50 parameters for CI in the above code.
+
+4. Transaction Tracking
+   For each transaction, add a global or session variable to track for starting and completion
+    
+   Call the method $ap->startTransaction() at the transaction starting place. Store the return in a global or session variable, which has to be used in transaction completion.
+
+    $startparams = $ap->startTransaction('SearchBook', 'BookPage', 
+                                        array('book_name' => 'The Wings of Fire', 
+                                        'book_author' => 'APJ Adbul Kalam')
+                                        );
+    $_SESSION['params'] = $startparams;
+
+   Call the method $ap->completeTransaction() where the transaction completes.
+
+    $curlreturn = $ap->completeTransaction($_SESSION['params']);
+
+5. Please ensure that your php file has session_start(). Else add session_start() in the beginning of your file.

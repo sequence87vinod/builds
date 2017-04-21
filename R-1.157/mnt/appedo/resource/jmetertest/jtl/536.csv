@@ -1,0 +1,8 @@
+54.237.33.197,1428080948971,6454,/,200,OK,youtubesearch 1-1,text,true,34934,6058
+54.237.33.197,1428080943093,6454,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-1,,true,34934,6058
+54.237.33.197,1428080948975,6500,/,200,OK,youtubesearch 1-2,text,true,35139,6045
+54.237.33.197,1428080943592,6500,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-2,,true,35139,6045
+54.237.33.197,1428080955451,283,/results,200,OK,youtubesearch 1-1,text,true,24882,43
+54.237.33.197,1428080955449,283,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-1,,true,24882,43
+54.237.33.197,1428080955477,304,/results,200,OK,youtubesearch 1-2,text,true,25082,36
+54.237.33.197,1428080955476,304,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-2,,true,25082,36

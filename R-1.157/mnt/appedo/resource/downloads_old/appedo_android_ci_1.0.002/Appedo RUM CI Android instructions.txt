@@ -1,0 +1,50 @@
+CI Android configuration instructions:
+
+1.Add the following xml tag in AndroidManifest.xml file to your android project. 
+ 
+  <uses-permission  android:name="android.permission.INTERNET"/>
+  
+2.Add the appedo_ci.jar file into your Android project libs folder
+
+3.Add the appedo_config.properties file into your Android project src folder.
+
+4.Include the package com.android.appedo_ci.service in your Activity class after use the following appedo methods.
+
+5.Appedo gives you a survey kind of report,to know what kind of Users interested in what kind of products.
+For that you need to give us the parameters user_first_name, user_last_name, email_id and mobile_no.
+Call this function once you are able to get the User Details from your session. 
+
+Add the following code to the onscreen load time method inside in Android activity class.
+
+Note: Any Events or Transactions called before this will not carry the user data to Appedo
+
+     Appedo_CI.setUserProps( { 
+                user_first_name: user_first_name_from_session, 
+			user_last_name : user_last_name_from_session,
+			email_id : email_id_from_session,
+			mobile_no : mobile_no_from_session } );
+		
+Event Tracking:
+
+6.In the Android app, create the AsyncTask class in android activity, then use the following Appedo_CI's methods inside the AsyncTask class. AsyncTask Class can be called from any event.
+
+Note: All Appedo_CI methods should be used inside the AsyncTask class in android activity otherwise, it will throw networkOnMainThreadException. 
+
+	Appedo_CI.triggerEvent("Apply Leave", "applyLeave",{ Employee Name : "Rajiv", No Of Days : "5"});
+	
+7.The users can add maximum of 50 parameters for CI in the above code
+
+
+8.Transaction Tracking:
+For each tranaction, add a global variable to track it for starting and completion.
+   String parms = null;
+
+9.Call the method Appedo_CI.startTransaction() at the transaction's starting place. Store the return in a global variable, which has to be used in transaction's completion.
+	
+    parms = Appedo_CI.startTransaction("Approve Leave", "approveLeave", { Employee Name : "User2", No Of Days : "5"})
+		
+       
+10.Call the method Appedo_CI.completeTransaction(), where the return of the startTransaction  is loaded.
+     
+   Appedo_CI.completeTransaction(parms);
+

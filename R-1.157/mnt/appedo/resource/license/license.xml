@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<licenseMode>
+		<mode>FREE</mode>
+		<maxuser>3000</maxuser>
+		<maxruncount>120</maxruncount>
+		<maxduration>1860</maxduration>
+		<maxiteration>1000</maxiteration>
+	</licenseMode>
+</root>

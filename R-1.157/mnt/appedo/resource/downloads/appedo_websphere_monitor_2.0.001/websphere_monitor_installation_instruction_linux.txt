@@ -1,0 +1,46 @@
+1. Prerequisites:
+	 - JRE 1.7 or above. To download JRE 1.7 http://www.oracle.com
+	 - WebSphere 8.5.x should be installed.
+	 - File write permission for a folder, where agent will be configured.
+	 - PerfServlet.ear plugin installed. This is also mentioned in the following procedure.
+
+2. Create Appedo agent's home directory
+	 mkdir /mnt/appedo/
+	 cd /mnt/appedo/
+
+3. Download the agent under /mnt/appedo/
+
+4. Extract the downloaded setup 
+	 cd /mnt/appedo/
+	 tar -xzmvf appedo_websphere_monitor_#VERSION#.tar.gz
+
+5.  Update your WebSphere Application details in the config.properties
+  	 /mnt/appedo/appedo_websphere_monitor_#VERSION#/config.properties
+	
+	> Add your WebSphere server details and Application details in the properties `ASD_DETAILS` and `AGENT_CONFIG` respectively. 
+	Example:
+		#ASD details
+		ASD_DETAILS={"app_server_1":{"host":"localhost","app_port":"80"}}
+		
+		#Agent config Details
+		AGENT_CONFIG=[{"guid":"...","war_name":"myApplication.war","websphere_app_name":"myApplication_war","context_app_name":"myApplication","server_alias":"app_server_1"}]
+	where,
+		`websphere_app_name` is the name given as "Application Name" while deploying the WAR file
+		`war_name` is the upload WAR file's name
+		`context_app_name` is the application name to be used in the URL
+		
+6. Add WebSphere Configurations:
+    > Deploy the plugin/in-built application in IBM WebSphere, which is available in
+		$WAS_HOME/AppServer-> InstallApps-> Perfservelet.ear,  
+	> If required, restart the WebSphere after the above change. 
+	
+7.  Install SSL
+	 cp $JAVA_HOME/jre/lib/security/cacerts cacerts_appedo_agent
+	 keytool -import -alias apm.appedo.com -keystore cacerts_appedo_agent -storepass changeit -file apm.appedo.com.crt -noprompt
+
+ 	 Note: "changeit" is the default store password for the "cacerts". If it changed, then use the new password in the above and below commands.
+	
+8.  Run the agent in background:
+	 cd /mnt/appedo/appedo_websphere_monitor_#VERSION#
+	 nohup java -Djavax.net.ssl.trustStore=cacerts_appedo_agent -Djavax.net.ssl.trustStorePassword=changeit -jar appedo_websphere_agent_#VERSION#.jar
+

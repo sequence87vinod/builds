@@ -1,0 +1,1 @@
+nohup /var/java/jdk1.7.0_67/bin/java -jar /mnt/appedo/appedo_grafana_collector_agent/appedo_lt_grafana_collector_agent_2.0.001.jar > /mnt/appedo/appedo_grafana_collector_agent/logs/appedo_lt_grafana_collector_agent_2.0.001_$(date +%Y-%m-%d_%H%M).log 2>&1 &

@@ -1,0 +1,1 @@
+nohup java -Djavax.net.ssl.trustStore=cacerts_@download_appln_name_lowercase@_agent -Djavax.net.ssl.trustStorePassword=changeit -jar @download_appln_name_lowercase@_avm_monitor.jar > logs/@download_appln_name_lowercase@_avm_monitor_$(date +%Y-%m-%d_%H%M).log &

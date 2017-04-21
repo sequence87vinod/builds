@@ -1,0 +1,8 @@
+54.90.18.80,1432968106483,1497,/,200,OK,youtubesearch 1-1,text,true,41139,1138
+54.90.18.80,1432968105568,1497,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-1,,true,41139,1138
+54.90.18.80,1432968106474,1555,/,200,OK,youtubesearch 1-2,text,true,41390,1159
+54.90.18.80,1432968106067,1555,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-2,,true,41390,1159
+54.90.18.80,1432968108031,207,/results,200,OK,youtubesearch 1-2,text,true,26458,30
+54.90.18.80,1432968108030,207,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-2,,true,26458,30
+54.90.18.80,1432968108006,259,/results,200,OK,youtubesearch 1-1,text,true,26127,37
+54.90.18.80,1432968108003,259,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-1,,true,26127,37

@@ -1,0 +1,5 @@
+Steps to install linux monitor agent
+
+ - run the "linux_monitor_installer.sh" to download the agent setup
+ - Once the agent setup download done, extract the downloaded agent file.
+ - Then follow the instruction available in the downloaded tar file. 

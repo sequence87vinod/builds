@@ -1,0 +1,35 @@
+1. Run the filebeat_installer_linux.sh		
+	run the script as ./filebeat_installer_linux.sh
+	
+2. Configure Filebeat
+	Enter the log path.
+	eg. /var/log/syslog or /var/lib/apache_tomcat_XX/logs/catalina.out
+
+3. Filebeat starting
+	Once the sh file executed successfully, filebeat will be started and will be sending the log to server.
+   Note : 
+		if there is a need to add another logs path, follow the below process,
+		Step 1 - cd Log_Monitor/filebeat_XXX/
+		Step 2 - type sudo vi filebeat.yml
+		Step 3 - Enter below configuration line after #Additional Prospectors 
+		Step 4 - Provide OS name and guid(shown in LOG cardlayout page) in the below configuration
+	
+	-
+      paths:
+        - /var/log/syslog #provide the log required
+      input_type: log
+      fields: {os: "<OS_NAME>", guid: "<GUID>"}
+      fields_under_root: true
+      document_type: log
+	  ignore_older: 5m
+
+4. Kill the filebeat process
+	Run the following command will give PID of filebeat
+	ps -eaf | grep filebeat 
+	Kill the process
+
+7. Start the filebeat
+	type the below command to start the filebeat
+		sudo ./filebeat -e -c filebeat.yml
+		
+	

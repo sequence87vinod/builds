@@ -1,0 +1,36 @@
+54.237.102.41,1432712192724,816,/HotelApp/,200,OK,searchadactin 1-1,text,true,1853,816
+54.237.102.41,1432712192722,830,/HotelApp/,200,OK,searchadactin 1-2,text,true,1853,830
+54.237.102.41,1432712193556,257,/HotelApp/css/main.css,200,OK,searchadactin 1-1,text,true,1159,257
+54.237.102.41,1432712193584,262,/HotelApp/css/main.css,200,OK,searchadactin 1-2,text,true,1159,261
+54.237.102.41,1432712193814,255,/HotelApp/js/login.js,200,OK,searchadactin 1-1,text,true,601,255
+54.237.102.41,1432712193849,251,/HotelApp/js/login.js,200,OK,searchadactin 1-2,text,true,601,251
+54.237.102.41,1432712194070,257,/HotelApp/img/AdactIn_logo.png,200,OK,searchadactin 1-1,bin,true,10088,257
+54.237.102.41,1432712194101,247,/HotelApp/img/AdactIn_logo.png,200,OK,searchadactin 1-2,bin,true,10088,247
+54.237.102.41,1432712194328,263,/HotelApp/img/Hotel2.jpg,200,OK,searchadactin 1-1,bin,true,4547,263
+54.237.102.41,1432712194349,246,/HotelApp/img/Hotel2.jpg,200,OK,searchadactin 1-2,bin,true,4547,246
+54.237.102.41,1432712194592,248,/HotelApp/img/header-bg.jpg,200,OK,searchadactin 1-1,bin,true,681,248
+54.237.102.41,1432712194596,246,/HotelApp/img/header-bg.jpg,200,OK,searchadactin 1-2,bin,true,681,246
+54.237.102.41,1432712194843,250,/HotelApp/img/Hotel4.jpg,200,OK,searchadactin 1-2,bin,true,3172,250
+54.237.102.41,1432712194841,253,/HotelApp/img/Hotel4.jpg,200,OK,searchadactin 1-1,bin,true,3172,253
+54.237.102.41,1432712195094,248,/HotelApp/img/Hotel1.jpg,200,OK,searchadactin 1-2,bin,true,4729,248
+54.237.102.41,1432712195095,248,/HotelApp/img/Hotel1.jpg,200,OK,searchadactin 1-1,bin,true,4729,248
+54.237.102.41,1432712195344,248,/HotelApp/img/hotel.jpg,200,OK,searchadactin 1-2,bin,true,24978,246
+54.237.102.41,1432712195343,251,/HotelApp/img/hotel.jpg,200,OK,searchadactin 1-1,bin,true,24978,248
+54.237.102.41,1432712195593,491,/HotelApp/img/Hotel3.jpg,200,OK,searchadactin 1-2,bin,true,48545,247
+54.237.102.41,1432712187264,3319,OpenURL,200,"Number of samples in transaction : 10, number of failing samples : 0",searchadactin 1-2,,true,100353,3072
+54.237.102.41,1432712195594,494,/HotelApp/img/Hotel3.jpg,200,OK,searchadactin 1-1,bin,true,48545,249
+54.237.102.41,1432712186770,3342,OpenURL,200,"Number of samples in transaction : 10, number of failing samples : 0",searchadactin 1-1,,true,100353,3094
+54.237.102.41,1432712196086,334,/HotelApp/,200,OK,searchadactin 1-2,text,true,2063,334
+54.237.102.41,1432712196090,338,/HotelApp/,200,OK,searchadactin 1-1,text,true,2063,338
+54.237.102.41,1432712196425,251,/HotelApp/js/search_hotel.js,200,OK,searchadactin 1-2,text,true,1100,251
+54.237.102.41,1432712196429,255,/HotelApp/js/search_hotel.js,200,OK,searchadactin 1-1,text,true,1100,255
+54.237.102.41,1432712196682,5735,/HotelApp/img/book_selenium_webdriver_app.png,200,OK,searchadactin 1-2,bin,true,53225,5492
+54.237.102.41,1432712196698,5964,/HotelApp/img/book_selenium_webdriver_app.png,200,OK,searchadactin 1-1,bin,true,53225,5485
+54.237.102.41,1432712202418,496,/HotelApp/img/book_hp_uft_navneesh_garg_hotelapp.png,200,OK,searchadactin 1-2,bin,true,74146,254
+54.237.102.41,1432712196085,6816,Login,200,"Number of samples in transaction : 4, number of failing samples : 0",searchadactin 1-2,,true,130534,6331
+54.237.102.41,1432712202662,484,/HotelApp/img/book_hp_uft_navneesh_garg_hotelapp.png,200,OK,searchadactin 1-1,bin,true,74146,242
+54.237.102.41,1432712196089,7041,Login,200,"Number of samples in transaction : 4, number of failing samples : 0",searchadactin 1-1,,true,130534,6320
+54.237.102.41,1432712202921,525,/HotelApp/Logout.php,200,OK,searchadactin 1-2,text,true,1903,523
+54.237.102.41,1432712202921,525,Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",searchadactin 1-2,,true,1903,523
+54.237.102.41,1432712203147,511,/HotelApp/Logout.php,200,OK,searchadactin 1-1,text,true,1903,508
+54.237.102.41,1432712203146,511,Logout,200,"Number of samples in transaction : 1, number of failing samples : 0",searchadactin 1-1,,true,1903,508

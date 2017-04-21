@@ -1,0 +1,1 @@
+java -Djavax.net.ssl.trustStore=cacerts_@download_appln_name_lowercase@_agent -Djavax.net.ssl.trustStorePassword=changeit -jar @download_appln_name_lowercase@_avm_monitor.jar > logs/@download_appln_name_lowercase@_avm_monitor_#VERSION#_%date:~6,4%%date:~3,2%%date:~0,2%_%time:~0,2%%time:~3,2%.log

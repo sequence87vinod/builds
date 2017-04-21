@@ -1,0 +1,8 @@
+54.204.79.74,1426413587373,6332,/,200,OK,youtubesearch 1-2,text,true,36345,6024
+54.204.79.74,1426413582011,6332,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-2,,true,36345,6024
+54.204.79.74,1426413587375,6408,/,200,OK,youtubesearch 1-1,text,true,36740,6022
+54.204.79.74,1426413581512,6408,OpenURL,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-1,,true,36740,6022
+54.204.79.74,1426413593740,311,/results,200,OK,youtubesearch 1-2,text,true,25125,53
+54.204.79.74,1426413593734,311,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-2,,true,25125,53
+54.204.79.74,1426413593790,385,/results,200,OK,youtubesearch 1-1,text,true,24977,32
+54.204.79.74,1426413593789,385,SearchVideos,200,"Number of samples in transaction : 1, number of failing samples : 0",youtubesearch 1-1,,true,24977,32

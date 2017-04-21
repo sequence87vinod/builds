@@ -1,0 +1,17 @@
+MSIIS profiler agent installation instructions:
+	1. Prerequestie for profiler agent is MSMQ (Message Queuing)
+
+	2. Create @appln_heading@ agent's home folder
+		D:\@download_appln_name_lowercase@_msiis_profiler_agent
+	3.Download the agent under D:\@download_appln_name_lowercase@_msiis_profiler_agent
+
+	4.Use Winrar/Winzip/Other tools to extract the downloaded setup
+
+	5.Run the agent by double clicking D:\@download_appln_name_lowercase@_msiis_profiler_agent\@download_appln_name_lowercase@_msiis_profiler_#VERSION#\setup.exe
+	
+	Note:
+	     1. By Default, In @download_appln_name_uppercase@_CLR_PROFILER.exe.config file will have deepprofile = 1 (deepprofile = yes). This will enable the profiler
+		    to show both system and user defined methods and the cpu utilization will be overhead. 
+			If the cpu is utilization is high then update the deepprofile = 0 (deepprofile = no)  in @download_appln_name_uppercase@_CLR_PROFILER.exe.config. This will reduce the cpu overhead and 
+			to show only the system calls.
+			

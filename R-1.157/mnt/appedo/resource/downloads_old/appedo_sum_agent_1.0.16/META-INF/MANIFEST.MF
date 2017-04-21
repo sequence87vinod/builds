@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+VersionLastUpdate: 2015-09-02 19:00
+Implementation-Version: 1.0.14
+Class-Path: lib/selenium-server-standalone-2.47.1.jar lib/commons-http
+ client-3.1.jar
+Main-Class: com.appedo.eum.init.AgentInit
+

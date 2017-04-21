@@ -1,0 +1,5 @@
+Instructions for adding ci script to application pages.
+
+1. Open CI_head.txt file
+2. Copy file content and put in the respective application page header part.
+3. Sample input type included in CI_head can be replaced with original values along with triggerEvent function.

@@ -1,0 +1,95 @@
+1. Include the below script tags under your <head > tag. You will get the whole script with guid once you download the CI script.
+
+<script src="@RUM_COLLECTOR_URL@/js/boomerang.js"></script>
+<script src="@RUM_COLLECTOR_URL@/js/navtiming.js"></script>
+<script src="@RUM_COLLECTOR_URL@/js/detect.min.js"></script>
+<script src="@RUM_COLLECTOR_URL@/js/@download_appln_name_lowercase@_ci.js"></script>
+<script>
+  var @download_appln_name_uppercase@_UI_GUID = "@GUID@";
+  var @download_appln_name_uppercase@_YOUR_ENVIRONMENT = '';	/*  Eg.: Test, Prod, Live, Dev */
+ 
+  var user = detect.parse(navigator.userAgent);
+  BOOMR.addVar({
+	"browserName": user.browser.name,
+	"deviceType": user.device.type,
+	"OS": user.os.name,
+	"devicename": user.device.name,
+	"merchantname":user.device.family,
+	"guid": "@GUID@"
+  });
+  BOOMR.init({
+    beacon_url: "@RUM_COLLECTOR_URL@/rumCollector"
+  });
+</script> 
+
+2. @appln_heading@ gives you a survey kind of report to know what kind of Users interested in what kind of products. 
+For that you need to give us the parameters user_first_name, user_last_name, email_id and mobile_no. 
+Call this function once you are able to get the User Details from your session. This can be called in the body onload or document onReady, etc. 
+	Note: Any Events or Transactions called before this	will not carry the user data to @appln_heading@.
+
+<script>
+	function onPageLoad(){
+		@download_appln_name_camelcase@_CI.setUserProps({
+			user_first_name: user_first_name_from_session, 
+			user_last_name: user_last_name_from_session,
+			email_id: email_id_from_session,
+			mobile_no: mobile_no_from_session
+		});
+	}
+</script>
+
+Event Tracking:
+3. Add The following script next to any of the onClick or onSubmit or onBlur or onFocus event.
+<input type="button" name="submit_id" id="btn_id" value="Submit by Id" 
+	onclick="@download_appln_name_camelcase@_CI.triggerEvent('SearchBook', 'onClick', 
+	{
+		book_name: 'The Wings of Fire',
+		book_author: 'APJ Abdul Kalam'
+	});
+	your_submit_fn();" />
+	
+4. The users can add maximum of 50 parameters for CI in the above code.
+
+Transaction Tracking:
+5. For each tranaction, add a global variable to track it for starting and completion. 
+	<script>
+		var tx_1;
+	</script>
+	
+6. Call the function @download_appln_name_camelcase@_CI.startTransaction() at the transaction's starting place.
+	Store the return in a global variable, which has to be used in transaction's completion.
+	
+	addItemsToCart = function(){
+			.
+			.
+			.
+			.
+			// just before your AJAX call.
+			tx_1 = @download_appln_name_camelcase@_CI.startTransaction(
+				'Add to Cart', 'onSubmit', {
+					book_name: 'The Wings of Fire',
+					book_author: 'APJ Abdul Kalam'
+				}
+			);
+			
+			// start your AJAX call
+			$.ajax({
+				type: 'POST',
+				url: '../addToCart',
+				data: {
+					book_name: 'The Wings of Fire',
+					book_author: 'APJ Abdul Kalam'
+				},
+				success: onSuccessAddItemsToCart,
+				failure: onFailureAddItemsToCart
+		}
+		
+7. Call the funtion @download_appln_name_camelcase@_CI.completeTransaction(), where the return of the AJAX call is loaded.
+	onSuccessAddItemsToCart : function(resp) {
+				// just in the begining of the function
+				@download_appln_name_camelcase@_CI.completeTransaction(tx_1);
+				 tx_1 = null;
+				.
+				.
+				.
+			}

@@ -1,0 +1,15 @@
+appdiagnos agent installation instructions:
+1. Create @appln_heading@'s home directory
+	D:\@download_appln_name_lowercase@_mssql_agent
+2. Download the agent under D:\@download_appln_name_lowercase@_mssql_agent
+
+3. Use Winrar/Winzip/Other tools to extract the downloaded setup
+
+4. If you want slow query from SQL server, You have to config SQL Server detail in D:\@download_appln_name_lowercase@_mssql_agent\@download_appln_name_lowercase@_mssql_agent_#VERSION#\@download_appln_name_uppercase@_MSSQL_AGENT\@download_appln_name_uppercase@_MSSQL_AGENT.exe.config
+    SqlServer- SQL server ip address(By default it is localhost)
+	SqlUserId- SQL Server user id(By default it is sa)
+	SqlPassword- SQL Server password
+	
+	Finaly save the file.
+	
+5. Run the agent by double clicking D:\@download_appln_name_lowercase@_mssql_agent\@download_appln_name_lowercase@_mssql_agent_#VERSION#\setup.exe

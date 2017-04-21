@@ -1,0 +1,1 @@
+rm -f @download_appln_name_lowercase@_linux_monitor_install.sh;curl -o @download_appln_name_lowercase@_linux_monitor_install.sh -k @APPEDO_URL@monitor_installer/@download_appln_name_lowercase@_linux_monitor_install.sh && sh @download_appln_name_lowercase@_linux_monitor_install.sh "@APPEDO_URL@apm/downloadAgent?type=@TYPE@&guid=@GUID@&modulename=@MODULE_NAME@"

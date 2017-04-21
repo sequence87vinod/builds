@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>{{ appln_heading }} - Download SUM Agent</title>
+<meta content="Microsoft Visual Studio .NET 7.1" name="GENERATOR">
+<meta content="C#" name="CODE_LANGUAGE">
+<meta content="JavaScript" name="vs_defaultClientScript">
+<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+</head>
+<body>
+<form id="FORM" method="post" name="FORM" target="_blank">
+<table class="outerTable" style="padding: 10px 15px 15px 5px !important; font-size: 12px;" cellpadding="6" width="100%">
+<tbody><tr>
+<td  align="left">
+<!-- A href="http://www.appedo.com/">
+ 						<img width="210" height="50" title="" alt="Appedo" src="http://54.89.145.85:8080/appedo/images/New Appedo_Logo 205x45-01.png" >
+					</A -->
+<p >Dear {{USERNAME}},</p>
+<p >Please read the prerequisites below and click the download button below to download your SUM agent.</p>
+<p ><a data-click-track-id="2715" href="@LINK@" style="border:1px solid #888; background-color:#eff0ab; padding: 6px 10px 6px 10px; text-decoration:none; color:#fd0000;" target="_blank">Download Agent</a></p>
+<br>
+<p >Prerequisites* required to be installed your machine.</p>
+<ol>
+<li>JRE 1.7 or above. Please use <a  data-click-track-id="9350" href="http://www.oracle.com/technetwork/java/javase/downloads/java-se-jre-7-download-432155.html" target="_blank">JRE 1.7 download from http://www.oracle.com</a></li>
+<li>File write permission for a folder, where agent will be configured.</li>
+<li >
+							Firefox 31.0 with update in disabled mode. 
+							Please download the <a data-click-track-id="9576" href="http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/31.0/win32/en-US/Firefox%20Setup%2031.0.exe" target="_blank">Firefox 31.0 from ftp.mozilla.org</a>
+<br>
+							Follow the steps to disable auto-upgrade.<br>
+							i) Tools -&gt; Options -&gt; Advanced -&gt; Update -&gt; Select "Never Check for updates"<br>
+							ii) Use a background service to install updates<br>
+</li>
+</ol>
+					* This agent is configured only for the above said Firefox version. Otherwise it won't work.<br>
+<br>
+<p >Please follow these instructions to start the {{ appln_heading  }} SUM agent in your machine.</p>
+<ol>
+<li >Extract the downloaded agent in required path.</li>
+<li >To start the agent:
+							<p ><b>Linux:</b></p>
+<p >&gt; cd &lt;AGENT_HOME&gt;</p>
+<p >&gt; java -jar {{ download_appln_name_lowercase }}_sum_agent_{{VERSION}}.jar &gt; {{ download_appln_name_lowercase }}_sum_agent_$(date +%Y-%m-%d_%H%M).log</p>
+<br>
+<p ><b>Windows:</b></p>
+<p >&gt; cd &lt;AGENT_HOME&gt;</p>
+<p >&gt; java -jar {{ download_appln_name_lowercase }}_sum_agent_{{VERSION}}.jar &gt; {{ download_appln_name_lowercase}}_sum_agent_%date:~6,4%%date:~3,2%%date:~0,2%_%time:~0,2%%time:~3,2%.log</p>
+</li>
+</ol>
+<br>
+<p> Please save this mail for further reference. </p>
+</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td>
+<p>Sincerely,</p>
+<p><b>{{ appln_heading }} Team</b></p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td>
+					--
+					<p style="font-size: 10px;">You received this message because you are subscribed to {{company_website}} product suite.<br>
+					To unsubscribe from our newsletters, send an email to {{ unsubscribe_emailid }}.</p>
+</td>
+</tr>
+</tbody></table>
+</form>
+
+</body></html>
